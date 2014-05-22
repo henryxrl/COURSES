@@ -1,0 +1,3062 @@
+<add>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs101</field>
+	<field name="course_title">Intro to Computer Science Class Online (CS101) - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">3 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">In this introductory course, you’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore fundamental computer science concepts, as you build your own search engine and social network.</field>
+	<field name="course_body">Intro to Computer Science
+Build a Search Engine &amp; a Social NetworkCourse Summary
+
+In this introductory course, you’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore fundamental computer science concepts, as you build your own search engine and social network.
+
+Why Take This Course?
+
+You’ll learn the programming language Python, and you’ll explore foundational concepts in computer science. Most importantly, you’ll start thinking like a software engineer by solving interesting problems (how to build a web crawler or a social network) using computer science.
+
+This course is a first step into the world of computer science, and whether you want to become a software engineer, or collaborate with software engineers, this course is for you. You’ll be prepared for intermediate-level computer science courses when you’ve mastered the concepts covered in this course.
+
+Build a Search Engine:
+
+Throughout this course, you’ll build a search engine by learning about and producing key search engine components including a crawler, an index and a page rank algorithm. As you build these pieces, you’ll be learning about and practicing computer science skills that will ready you for intermediate level computer science courses.
+
+Build a Social Network:
+
+At the end of the course we will give you a set of relationships (i.e. strings of phrases like “Dave likes Andy, Kathleen and Kristy”) and you will use your new computer science skills to organize these relationships into a social network. With your new social network, you can explore relationships and gain insight into how you fit into your own social networks.
+
+Prerequisites and Requirements
+
+There is no prior programming knowledge needed for this course. Beginners are welcome!
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Build a search engine throughout this course. Then, build a social network with your new skills!
+
+Syllabus
+
+Lesson 1: How to Get Started
+
+Your first program: Extracting a link
+
+Lesson 2: How to Repeat
+
+Procedures, decisions (if), loops; finding all of the links on a page
+
+Additional Lesson: How to Solve Problems
+
+Universal techniques for solving programming problems
+
+Lesson 3: How to Manage Data
+
+Lists; crawling the web
+
+Lesson 4: Responding to Queries
+
+Complex data structures; building a reverse index to do searches; networks
+
+Lesson 5: How Programs Run
+
+Reasoning about cost; hash tables (Dictionary)
+
+Lesson 6: How to Have Infinite Power
+
+Recursive definitions; ranking search results
+
+Lesson 7: Where to Go from Here
+
+Past, present, and future of computing; exam
+
+Final Project: Build a Social NetworkInstructors &amp; Partners
+
+
+Dave Evans
+INSTRUCTOR
+David Evans is a Professor of Computer Science at the University of Virginia where he teaches computer science and leads research in computer security. He is the author of an introductory computer science textbook and has won Virginia&#39;s highest award for university faculty. He has PhD, SM, and SB degrees from MIT.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud162</field>
+	<field name="course_title">Intro to Salesforce App Development - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">1 month</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Samantha Ready</field>
+	<field name="course_instructor">Mario Korf</field>
+	<field name="course_instructor_intro">Samantha Ready is a Developer Evangelist at salesforce.com. She has been with Salesforce for three years, and prior to evangelism was part of an internal development team building prototypes and apps on the platform. She graduated from UC Santa Cruz with a degree in computer engineering and a concentration in robotics and embedded systems, but as of late has focused on front end and mobile development. When she’s not sharing her love for Salesforce, you can find Sam scuba diving, scaling mountains, or searching for the world’s best hot sauce while listening to good music.</field>
+	<field name="course_instructor_intro">Mario Korf is a Developer Programs Manager at Salesforce.com, who specializes in designing learning paths and documentation for new developers. During his six years at Salesforce, he has won several technical writing awards on subjects from application lifecycle management to mobile development. He created the popular Workbook series of tutorials, and is passionate about new and innovative ways for learning. Mario&#39;s excited to help with this project because it provides an alternative to traditional instructor-lead training, with a social, self-paced, and enjoyable experience out of the box. In his spare time, Mario is racing, building, or chasing something. He’s typically on or under the water.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
+
+By the end of this short course, you&#39;ll use the skills you&#39;ve developed to conceptualize and create your own app. To get you there, your instructors Samantha and Andy will first help you build an app that could be used to manage logistics at a music festival. Though this is a very specific app use case, the skills you learn will be applicable to just about any business app you’d want to develop.</field>
+	<field name="course_body">Course Summary
+
+This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
+
+By the end of this short course, you&#39;ll use the skills you&#39;ve developed to conceptualize and create your own app. To get you there, your instructors Samantha and Andy will first help you build an app that could be used to manage logistics at a music festival. Though this is a very specific app use case, the skills you learn will be applicable to just about any business app you’d want to develop.
+
+Why Take This Course?
+
+After completing this course you will have built your own web and mobile app. You will become familiar with the concept of abstraction and how to think about concrete problems in their most general sense -- a concept critical for all developers. In addition, you will learn how to map out a data model, create data visualizations, and automate manual processes after analyzing your abstractions.
+
+What kind of apps can you build? Well, Facebook uses a Salesforce app to manage their entire hire-to-retire process: collecting resumes, sharing feedback, making job offers, and developing talent. And the Obama 2012 campaign built apps to mobilize their vast volunteer network and visualize the pulse of the nation in real-time. What will you build?
+
+Prerequisites and Requirements
+
+Good news! You don&#39;t need any programming experience and you don&#39;t need to know anything about Salesforce. You&#39;ll learn the ins and outs of point-and-click development, so all you need now is an interest in building an app.
+
+One thing you should know: the skills you learn in this course are in high demand and will help further your career.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Design and build your own mobile-friendly Salesforce app.
+
+Syllabus
+
+Overview
+
+In this class you’ll learn the basics of building apps with Force.com, a part of Salesforce Platform. These apps are typically business apps: they solve organizational and logistical problems. You probably wouldn’t use Salesforce to build a computer game (though you could!).
+
+There are two ways to build apps in Force.com: with or without code. This class will only cover the non-coding, point-and-click app building interface. But don’t be fooled! Building powerful apps does not require writing code.
+
+This class contains an introductory lesson, five primary lessons where you&#39;ll be building and learning (each of which has an accompanying problem set to practice your skills), and a final project where you&#39;ll put everything together.
+
+Lesson 0: What is Salesforce (15 mins)
+
+What is Salesforce Platform? What does it do? Why should I learn about it? What kind of jobs can I get after I learn how to use it?
+
+In this lesson, you’ll meet the instructors, get to know the class, and learn a bit about Salesforce in general.
+
+Lesson 1: Creating your First App (90 minutes)
+
+In this lesson you’ll get acquainted with Force.com and actually build the beginnings of your first app. You’ll get some experience taking a big problem (in this case, managing a music festival), breaking it into smaller parts, and representing those parts in Salesforce. As you do this, you’ll learn about the basic components of a Salesforce app and add some simple (but powerful) functionality to your app. More concretely, you’ll learn about:
+
+Salesforce Data: Salesforce represents data as objects, fields, and records. You’ll learn what these terms mean and build them into your app.
+Relationships: When the pieces of your app start communicating, interesting things can happen. In this lesson you’ll learn the basics of Salesforce relationship fields.
+Validation Rules: If you’ve ever incorrectly entered your credit card number into a website, you already know about validation rules. In this lesson, you’ll learn how to build them into your app.
+Formulas and Summaries: These tools let you easily keep track of quantifiable things like money spent, customers contacted, or tickets sold. In this lesson you’ll learn how to build these automated calculations into your app.
+Lesson 2: Building out your Data Model (90 mins)
+
+Behind every powerful business app is a well-planned data model (also known as a schema). In this lesson you’ll learn how to decompose a complex problem into its component pieces and then connect those pieces together with the appropriate relationship fields. The data model you build will serve as the schematic skeleton onto which you’ll build dynamic functionality in later lessons. The specific topics covered are:
+
+One-to-Many Relationships: These relationships let the pieces of your app talk to each other. In this lesson you’ll learn how and when (and why) to use master-detail and lookup relationships in the apps you build.
+Many-to-Many Relationships: You’ll learn how to use a junction object to add flexibility into your data model.
+Customizing the User Interface: Good apps should be easy to use! In this lesson you’ll learn how to configure the layout of your app to make sure the UI is simple and intuitive.
+Schema Builder: There are many ways to get things done in Salesforce. In this lesson you’ll start using the schema builder to understand how your app works.
+Data Loading: This is a convenient way to get lots of data onto your app at once.
+Lesson 3: Visualizing your Data (45 mins)
+
+No matter what kind of app you’re building, you’ve probably got some data that you want other people in your organization to understand quickly and easily. In this lesson you’ll learn how quickly communicate information with real-time data visualizations. Specifically, you’ll learn how to make:
+
+Reports: These let you gather related information into one place. These let you gather data according to specific criteria and display it in neat rows and columns.
+Charts: These let you graphically summarize the information in a report.
+Dashboards: Different people want access to different information. A dashboard is a collection of charts that give specific people in your organization exactly the information that they need in real-time.
+Views: Data is good, but sometimes you have too much. Views let you selectively and quickly display only the data you care about.
+Lesson 4: Adding Automation (45 mins)
+
+In this lesson you’ll think about how to use your app to automate manual tasks. You’ll learn how to use two important Salesforce tools:
+
+Workflows: There are situations where a series of steps need to happen in sequence: first do this, then do that. Workflows let you automate processes like these, such as sending an email, assigning a task, or updating a field.
+Approval Processes: You don’t want every job to be completely automated. Sometimes you need someone to step in and say “this looks good.” Approval processes add a human element to your automated tasks.
+Lesson 5: Make it Social. Make it Mobile. (45 mins)
+
+This is it. With a few clicks of the mouse you’ll make your app social and mobile. The tools you’ll use are:
+
+Chatter: This will let your users collaborate on the projects and records they work on together.
+Salesforce1: That web app you’ve been building this whole time? It’s actually a mobile app too. You’ll even learn how to quickly customize your mobile interface and add functionality for mobile productivity.
+Final Project: Build your own App (2-4 hours)
+
+By the time you get here, you will have already built a music festival management app. Now it’s time to take your own idea and turn it into a functional web and mobile app.Instructors &amp; Partners
+
+
+Samantha Ready
+INSTRUCTOR
+Samantha Ready is a Developer Evangelist at salesforce.com. She has been with Salesforce for three years, and prior to evangelism was part of an internal development team building prototypes and apps on the platform. She graduated from UC Santa Cruz with a degree in computer engineering and a concentration in robotics and embedded systems, but as of late has focused on front end and mobile development. When she’s not sharing her love for Salesforce, you can find Sam scuba diving, scaling mountains, or searching for the world’s best hot sauce while listening to good music.
+
+
+Mario Korf
+INSTRUCTOR
+Mario Korf is a Developer Programs Manager at Salesforce.com, who specializes in designing learning paths and documentation for new developers. During his six years at Salesforce, he has won several technical writing awards on subjects from application lifecycle management to mobile development. He created the popular Workbook series of tutorials, and is passionate about new and innovative ways for learning. Mario&#39;s excited to help with this project because it provides an alternative to traditional instructor-lead training, with a social, self-paced, and enjoyable experience out of the box. In his spare time, Mario is racing, building, or chasing something. He’s typically on or under the water.
+
+
+Andy Brown
+INSTRUCTOR
+After graduating from MIT with a degree in physics in 2009, Andy spent two years teaching, traveling around the world, and biking across the United States. When he heard about Udacity, he abandoned his vagabond ways to share his passion for learning and teaching with the world.
+
+Salesforce</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud359</field>
+	<field name="course_title">Intro to Data Science - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Dave Holtz</field>
+	<field name="course_instructor">Cheng-Han Lee</field>
+	<field name="course_instructor_intro">Dave Holtz is currently a data scientist at Airbnb. Before Airbnb, he was formerly a data science engineer at Yub, the world&#39;s first online-to-offline affiliate network, and he also worked as a product manager and data scientist at TrialPay. Dave holds an M.A. in physics and astronomy from the Johns Hopkins University and a B.A. in physics from Princeton University. In addition to data science, Dave is passionate about cosmology, smart cities, music, theater, and improv comedy.</field>
+	<field name="course_instructor_intro">Cheng-Han worked as a program manager at Microsoft prior to Udacity, and he studied at the University of Texas at Austin and University of California at San Diego for his degrees in computer science.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">The Introduction to Data Science class will survey the foundational topics in data science, namely:
+
+Data Manipulation
+Data Analysis with Statistics and Machine Learning
+Data Communication with Information Visualization
+Data at Scale -- Working with Big Data
+
+The class will focus on breadth and present the topics briefly instead of focusing on a single topic in depth. This will give you the opportunity to sample and apply the basic techniques of data science.</field>
+	<field name="course_body">Course Summary
+
+The Introduction to Data Science class will survey the foundational topics in data science, namely:
+
+Data Manipulation
+Data Analysis with Statistics and Machine Learning
+Data Communication with Information Visualization
+Data at Scale -- Working with Big Data
+
+The class will focus on breadth and present the topics briefly instead of focusing on a single topic in depth. This will give you the opportunity to sample and apply the basic techniques of data science.
+
+Why Take This Course?
+
+You will have an opportunity to work through a data science project end to end, from analyzing a dataset to visualizing and communicating your data analysis.
+
+Through working on the class project, you will be exposed to and understand the skills that are needed to become a data scientist yourself.
+
+Prerequisites and Requirements
+
+The ideal students for this class are prepared individuals who have:
+
+Strong interest in data science
+Background in intro level statistics
+Python programming experience
+Or understanding of programming concepts such as variables, functions, loops, and basic python data structures like lists and dictionaries
+
+If you need to brush up on your programming, we highly recommend Introduction to Computer Science: Building a Search Engine. If you need a refresher on statistics, enroll in Statistics: The Science of Decisions. Both classes are on Udacity!
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Use statistical analysis, machine learning, and MapReduce to discover interesting patterns and trends about the New York Subway.
+
+Syllabus
+
+Lesson 1: Introduction to Data Science
+
+Introduction to Data Science
+What is a Data Scientist
+Pi-Chaun (Data Scientist @ Google): What is Data Science?
+Gabor (Data Scientist @ Twitter): What is Data Science?
+Problems Solved by Data Science
+Pandas
+Dataframes
+Create a New Dataframe
+Lesson 2: Data Wrangling
+
+What is Data Wrangling?
+Acquiring Data
+Common Data Formats
+What are Relational Databases?
+Aadhaar Data
+Aadhaar Data and Relational Databases
+Introduction to Databases Schemas
+API’s
+Data in JSON Format
+How to Access an API efficiently
+Missing Values
+Easy Imputation
+Impute using Linear Regression
+Tip of the Imputation Iceberg
+Lesson 3: Data Analysis
+
+Statistical Rigor
+Kurt (Data Scientist @ Twitter) - Why is Stats Useful?
+Introduction to Normal Distribution
+T Test
+Welch T Test
+Non-Parametric Tests
+Non-Normal Data
+Stats vs. Machine Learning
+Different Types of Machine Learning
+Prediction with Regression
+Cost Function
+How to Minimize Cost Function
+Coefficients of Determination
+Lesson 4: Data Visualization
+
+Effective Information Visualization
+Napoleon&#39;s March on Russia
+Don (Principal Data Scientist @ AT&amp;T): Communicating Findings
+Rishiraj (Principal Data Scientist @ AT&amp;T): Communicating Findings Well
+Visual Encodings
+Perception of Visual Cues
+Plotting in Python
+Data Scales
+Visualizing Time Series Data
+Lesson 5: MapReduce
+
+Big Data and MapReduce
+Basics of MapReduce
+Mapper
+Reducer
+MapReduce with Aadhaar Data
+MapReduce Ecosystem
+Joshua (Data Scientist @ Twitter): MapReduce Tools, Pig
+MapReduce with Subway DataInstructors &amp; Partners
+
+
+Dave Holtz
+INSTRUCTOR
+Dave Holtz is currently a data scientist at Airbnb. Before Airbnb, he was formerly a data science engineer at Yub, the world&#39;s first online-to-offline affiliate network, and he also worked as a product manager and data scientist at TrialPay. Dave holds an M.A. in physics and astronomy from the Johns Hopkins University and a B.A. in physics from Princeton University. In addition to data science, Dave is passionate about cosmology, smart cities, music, theater, and improv comedy.
+
+
+Cheng-Han Lee
+COURSE DEVELOPER
+Cheng-Han worked as a program manager at Microsoft prior to Udacity, and he studied at the University of Texas at Austin and University of California at San Diego for his degrees in computer science.
+
+Outside of work, Cheng-Han is a world traveler. He has lived in Taiwan, Shanghai, Charleston (SC), Dallas, Austin, San Diego, Seattle, and now the Bay Area. In addition to traveling, he likes to find new parks to explore, new venues to visit, and new restaurants to try.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud651</field>
+	<field name="course_title">Exploratory Data Analysis Using R - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Dean Eckles</field>
+	<field name="course_instructor">Moira Burke</field>
+	<field name="course_instructor">Chris Saden</field>
+	<field name="course_instructor">Solomon Messing</field>
+	<field name="course_instructor_intro">Dean Eckles is a social scientist, statistician, and member of the Data Science team at Facebook. His primary focus is how interactive technologies affect human behavior by mediating, amplifying, and directing social influence — and the statistical methods to study these processes. Dean holds degrees from Stanford University in philosophy (BA), cognitive science (BS, MS), and statistics (MS), and communication (PhD).</field>
+	<field name="course_instructor_intro">Moira Burke is a Data Scientist at Facebook, where she combines her social psychology and data munging chops to understand how people perceive their audience online and how various uses of the site improve psychological well-being. She received her Ph.D. in Human-Computer Interaction from Carnegie Mellon University, and a B.A. in Computer Science from the University of Oregon. When not coaxing data into pretty plots, she sings a cappella. Badly.</field>
+	<field name="course_instructor_intro">After graduating from Emory in 2008, Chris dabbled in college admissions for a year, which led him to teach high school mathematics in Oakland. He radiates a love for learning and believes everyone deserves a great education. In 2012, Chris joined Udacity to reach thousands of students and share his joy of problem solving with the world.</field>
+	<field name="course_instructor_intro">Solomon Messing is a political scientist with Facebook&#39;s Data Science Team. His research and teaching focus on political advertising and campaigns, social influence, and design and analysis of experiments. His work has appeared in the American Political Science Review, Public Opinion Quarterly, and Communication Research. Solomon completed his Ph.D. in political communication and M.S. in Statistics at Stanford.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Exploratory Data Analysis (EDA) is an approach to data analysis for summarizing and visualizing the important characteristics of a data set. Promoted by John Tukey, EDA focuses on exploring data to understand the data’s underlying structure and variables, to develop intuition about the data set, consider how that data set came into existence, and decide how it can be investigated with more formal statistical methods.
+
+If you&#39;re interested in supplemental reading material for the course check out the Exploratory Data Analysis book. (Not Required)</field>
+	<field name="course_body">What Will I Learn?
+
+Projects
+
+Jump into a new dataset. Explore, create plots, and summarize the fascinating things you find.
+
+Syllabus
+
+Lesson 1: What is EDA? (1 hour)
+
+We&#39;ll start by learn about what exploratory data analysis (EDA) is and why it is important. You&#39;ll meet the amazing instructors for the course and find out about the course structure and final project.
+
+Lesson 2: R Basics (3 hours)
+
+EDA, which comes before formal hypothesis testing and modeling, makes use of visual methods to analyze and summarize data sets. R will be our tool for generating those visuals and conducting analyses. In this lesson, we will install RStudio and packages, learn the layout and basic commands of R, practice writing basic R scripts, and inspect data sets.
+
+Lesson 3: Explore One Variable (4 hours)
+
+We perform EDA to understand the distribution of a variable and to check for anomalies and outliers. Learn how to quantify and visualize individual variables within a data set as we begin to make sense of a pseudo-data set of Facebook users. While the data set does not contain real user data, it does contain a wealth of information. Through the lesson, we will create histograms and boxplots, transform variables, and examine tradeoffs in visualizations.
+
+Problem Set 3 (2 hours)
+
+Lesson 4: Explore Two Variables (4 hours)
+
+EDA allows us to identify the most important variables and relationships within a data set before building predictive models. In this lesson, we will learn techniques for exploring the relationship between any two variables in a data set. We&#39;ll create scatter plots, calculate correlations, and investigate conditional means.
+
+Problem Set 4 (2 hours)
+
+Lesson 5: Explore Many Variables (4 hours)
+
+Data sets can be complex. In this lesson, we will learn powerful methods and visualizations for examining relationships among multiple variables. We&#39;ll learn how to reshape data frames and how to use aesthetics like color and shape to uncover more information. Extending our knowledge of previous plots, we&#39;ll continue to build intuition around the Facebook data set and explore some new data sets as well.
+
+Problem Set 5 (2 hours)
+
+Lesson 6: Diamonds and Price Predictions (2 hours)
+
+Investigate the diamonds data set alongside Facebook Data Scientist, Solomon Messing. He&#39;ll recap many of the strategies covered in the course and show how predictive modeling can allow us to determine a good price for a diamond. As a final project, you will create your own exploratory data analysis on a data set of your choice.
+
+Final Project (10+ hours)
+
+You&#39;ve explored simulated Facebook user data and the diamonds data set. Now, it&#39;s your turn to conduct your own exploratory data analysis. Choose one data set to explore (one provided by Udacity or your own) and create a RMD file that uncovers the patterns, anomalies and relationships of the data set.Instructors &amp; Partners
+
+
+Dean Eckles
+INSTRUCTOR
+Dean Eckles is a social scientist, statistician, and member of the Data Science team at Facebook. His primary focus is how interactive technologies affect human behavior by mediating, amplifying, and directing social influence — and the statistical methods to study these processes. Dean holds degrees from Stanford University in philosophy (BA), cognitive science (BS, MS), and statistics (MS), and communication (PhD).
+
+
+Moira Burke
+INSTRUCTOR
+Moira Burke is a Data Scientist at Facebook, where she combines her social psychology and data munging chops to understand how people perceive their audience online and how various uses of the site improve psychological well-being. She received her Ph.D. in Human-Computer Interaction from Carnegie Mellon University, and a B.A. in Computer Science from the University of Oregon. When not coaxing data into pretty plots, she sings a cappella. Badly.
+
+
+Chris Saden
+INSTRUCTOR
+After graduating from Emory in 2008, Chris dabbled in college admissions for a year, which led him to teach high school mathematics in Oakland. He radiates a love for learning and believes everyone deserves a great education. In 2012, Chris joined Udacity to reach thousands of students and share his joy of problem solving with the world.
+
+
+Solomon Messing
+INSTRUCTOR
+Solomon Messing is a political scientist with Facebook&#39;s Data Science Team. His research and teaching focus on political advertising and campaigns, social influence, and design and analysis of experiments. His work has appeared in the American Political Science Review, Public Opinion Quarterly, and Communication Research. Solomon completed his Ph.D. in political communication and M.S. in Statistics at Stanford.
+
+Facebook</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud617</field>
+	<field name="course_title">Beginner Hadoop and MapReduce Course Online - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">1 month</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Sarah Sproehnle</field>
+	<field name="course_instructor">Ian Wrigley</field>
+	<field name="course_instructor_intro">Sarah Sproehnle is the Vice President of Educational Services at Cloudera, a company that helps develop, manage and support Apache Hadoop. While she is a geek at heart, her passion is helping people learn complex technology. In addition to teaching people how to use Hadoop, she&#39;s taught database administration, various programming languages, and system administration.</field>
+	<field name="course_instructor_intro">Ian Wrigley is currently the Senior Curriculum Manager at Cloudera, responsible for the team which creates all the company&#39;s Hadoop training materials. He&#39;s been a tech journalist, an instructor, and a course author for over 20 years, during which time he&#39;s taught everything from C programming to copywriting for the Web. He describes his job as &quot;teaching geeks to be geekier&quot;.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing. Learn the fundamental principles behind it, and how you can use its power to make sense of your Big Data.</field>
+	<field name="course_body">Course Summary
+
+The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing. Learn the fundamental principles behind it, and how you can use its power to make sense of your Big Data.
+
+Why Take This Course?
+
+How Hadoop fits into the world (recognize the problems it solves)
+Understand the concepts of HDFS and MapReduce (find out how it solves the problems)
+Write MapReduce programs (see how we solve the problems)
+Practice solving problems on your own
+Prerequisites and Requirements
+
+Lesson 1 does not have technical prerequisites and is a good overview of Hadoop and MapReduce for managers.
+
+To get the most out of the class you however need basic programming skills in Python, on a level provided by introductory courses, like our Introduction to Computer Science.
+
+To learn more about Hadoop, you can also check out the book Hadoop: The Definitive Guide.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Use MapReduce to reveal surprising trends in Udacity forum data.
+
+Syllabus
+
+Lesson 1
+
+What is &#39;big data&#39;? The dimensions of Big Data. Scaling problems. HDFS and Hadoop ecosystem.
+
+Lesson 2
+
+The Basics of HDFS, MapReduce and Hadoop cluster.
+
+Lesson 3
+
+Writing a MapReduce program to answer questions about data.
+
+Final Project
+
+Answering questions about big sales data and analyzing large website logs.Instructors &amp; Partners
+
+
+Sarah Sproehnle
+INSTRUCTOR
+Sarah Sproehnle is the Vice President of Educational Services at Cloudera, a company that helps develop, manage and support Apache Hadoop. While she is a geek at heart, her passion is helping people learn complex technology. In addition to teaching people how to use Hadoop, she&#39;s taught database administration, various programming languages, and system administration.
+
+
+Ian Wrigley
+INSTRUCTOR
+Ian Wrigley is currently the Senior Curriculum Manager at Cloudera, responsible for the team which creates all the company&#39;s Hadoop training materials. He&#39;s been a tech journalist, an instructor, and a course author for over 20 years, during which time he&#39;s taught everything from C programming to copywriting for the Web. He describes his job as &quot;teaching geeks to be geekier&quot;.
+
+
+Gundega Dekena
+COURSE DEVELOPER
+Once upon a time Gundega was a Udacity student. In a way she still is, because she is learning new things from instructors she works with and her Udacity coworkers every day.
+
+If you occasionally want to read fun news about robotics, science and games, follow her on G+ - https://plus.google.com/+GundegaDekena.
+
+Cloudera</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud032</field>
+	<field name="course_title">Data Wrangling Course With MongoDB - Udacity</field>
+	<field name="course_price">$200/month</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Shannon Bradshaw</field>
+	<field name="course_instructor">Gundega Dekena</field>
+	<field name="course_instructor_intro">Shannon is Director of Education at MongoDB, managing MongoDB University&#39;s in-person training and free online courses. Prior to joining MongoDB, Shannon was an Associate Professor of Computer Science at Drew University with research interests in user experience, information science, and the semantic web. For the past several years, Shannon has divided his time between academia and industry. He has trained software engineers at Goldman Sachs, designed text-retrieval systems at Morgan Stanley, and built many trading and analytics applications at boutique firms in the financial industry.</field>
+	<field name="course_instructor_intro">Once upon a time Gundega was a Udacity student. In a way she still is, because she is learning new things from instructors she works with and her Udacity coworkers every day.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">In this course, we will explore how to wrangle data from diverse sources and shape it to enable data-driven applications. Some data scientists spend the bulk of their time doing this!
+
+Students will learn how to gather and extract data from widely used data formats. They will learn how to assess the quality of data and explore best practices for data cleaning. We will also introduce students to MongoDB, covering the essentials of storing data and the MongoDB query language together with exploratory analysis using the MongoDB aggregation framework.
+
+This is a great course for those interested in entry-level data science positions as well as current business/data analysts looking to add big data to their repertoire, and managers working with data professionals or looking to leverage big data.</field>
+	<field name="course_body">Course Summary
+
+In this course, we will explore how to wrangle data from diverse sources and shape it to enable data-driven applications. Some data scientists spend the bulk of their time doing this!
+
+Students will learn how to gather and extract data from widely used data formats. They will learn how to assess the quality of data and explore best practices for data cleaning. We will also introduce students to MongoDB, covering the essentials of storing data and the MongoDB query language together with exploratory analysis using the MongoDB aggregation framework.
+
+This is a great course for those interested in entry-level data science positions as well as current business/data analysts looking to add big data to their repertoire, and managers working with data professionals or looking to leverage big data.
+
+Why Take This Course?
+
+At the end of the class, students should be able to:
+
+Programmatically extract data stored in common formats such as csv, Microsoft Excel, JSON, XML and scrape web sites to parse data from HTML.
+Audit data for quality (validity, accuracy, completeness, consistency, and uniformity) and critically assess options for cleaning data in different contexts.
+Store, retrieve, and analyze data using MongoDB.
+
+This course concludes with a final project where students incorporate what they have learned to address a real-world data analysis problem.
+
+Prerequisites and Requirements
+
+The ideal student should have the following skills:
+
+Programming experience in Python or a willingness to read a little documentation to understand examples and exercises throughout the course.
+The ability to perform rudimentary system administration on Windows or Unix
+At least some experience using a unix shell or Windows PowerShell will be helpful, but is not required.
+
+No prior experience with databases is needed.
+
+About MongoDB 
+This course is developed in conjunction with MongoDB, Inc., the originator and primary contributor to the open source database MongoDB. MongoDB is the leading NoSQL database. Designed for how we build and run applications today, MongoDB empowers organizations to be more agile and scalable. It enables new types of applications, better customer experience, faster time to market and lower costs.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Use important skills from data munging to improve OpenStreetMaps data for a part of the world that you care about and give back to the community.
+
+Syllabus
+
+Lesson 1: Data Extraction Fundamentals
+
+Assessing the Quality of Data
+Intro to Tabular Formats
+Parsing CSV
+Parsing XLS with XLRD
+Intro to JSON
+Using Web APIs
+Lesson 2: Data in More Complex Formats
+
+Intro to XML
+XML Design Principles
+Parsing XML
+Web Scraping
+Parsing HTML
+Lesson 3: Data Quality
+
+What is Data Cleaning?
+Sources of Dirty Data
+Measuring Data Quality
+A Blueprint for Cleaning
+Auditing Validity
+Auditing Accuracy
+Auditing Completeness
+Auditing Consistency
+Auditing Uniformity
+Lesson 4: Working with MongoDB
+
+Data Modelling in MongoDB
+Introduction to PyMongo
+Field Queries
+Projection Queries
+Getting Data into MongoDB
+Using mongoimport
+Operators like $gt, $lt, $exists, $regex
+Querying Arrays and using $in and $all Operators
+Changing entries: $update, $set, $unset
+Lesson 5: Analyzing Data
+
+Examples of Aggregation Framework
+The Aggregation Pipeline
+Aggregation Operators: $match, $project, $unwind, $group
+Multiple Stages Using a Given Operator
+Lesson 6: Case Study - OpenStreetMap Data
+
+Using iterative parsing for large datafiles
+Open Street Map XML Overview
+Exercises around OpenStreetMap data
+Final Project InstructionsInstructors &amp; Partners
+
+
+Shannon Bradshaw
+INSTRUCTOR
+Shannon is Director of Education at MongoDB, managing MongoDB University&#39;s in-person training and free online courses. Prior to joining MongoDB, Shannon was an Associate Professor of Computer Science at Drew University with research interests in user experience, information science, and the semantic web. For the past several years, Shannon has divided his time between academia and industry. He has trained software engineers at Goldman Sachs, designed text-retrieval systems at Morgan Stanley, and built many trading and analytics applications at boutique firms in the financial industry.
+
+
+Gundega Dekena
+COURSE DEVELOPER
+Once upon a time Gundega was a Udacity student. In a way she still is, because she is learning new things from instructors she works with and her Udacity coworkers every day.
+
+If you occasionally want to read fun news about robotics, science and games, follow her on G+ - https://plus.google.com/+GundegaDekena.
+
+MongoDB</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs253</field>
+	<field name="course_title">Web Development Course Online - How To Build A Blog - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Steve Huffman</field>
+	<field name="course_instructor">Sean Bennett</field>
+	<field name="course_instructor_intro">Steve Huffman co-founded the social news site reddit.com in 2005 with his college roommate. reddit.com has since grown into one of the largest communities online. In 2010, he co-founded Hipmunk, a company to take the agony out of searching for plane and hotel tickets. Steve was named to Inc. Magazine&#39;s 30 under 30 list in 2011. He studied Computer Science at the University of Virginia.</field>
+	<field name="course_instructor_intro">Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Starting from the basics of how the web works, this class will walk you through everything you need to know to build your own blog application and scale it to support large numbers of users.</field>
+	<field name="course_body">Course Summary
+
+Starting from the basics of how the web works, this class will walk you through everything you need to know to build your own blog application and scale it to support large numbers of users.
+
+Why Take This Course?
+
+In this project-based course your knowledge will be evaluated as you learn to build your own blog application! Learn everything Steve Huffman wished he would have known when he broke into the startup world. Read more about Huffman and the course here.
+
+Prerequisites and Requirements
+
+A moderate amount of programming and computer science experience is necessary for this course.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Make a webpage that anyone can add to and edit.
+
+Syllabus
+
+How the Web Works
+
+Introduction to HTTP and Web Applications
+
+How to Have Users
+
+Getting and processing user input
+
+How to Manage State
+
+Databases and persistent data
+
+Whom to Trust
+
+User authentication and access control
+
+How to Connect
+
+Web applications as services, using APIs
+
+How to Serve Millions
+
+Scaling, caching, optimizations
+
+Changing the World
+
+Building a successful web application, projectInstructors &amp; Partners
+
+
+Steve Huffman
+INSTRUCTOR
+Steve Huffman co-founded the social news site reddit.com in 2005 with his college roommate. reddit.com has since grown into one of the largest communities online. In 2010, he co-founded Hipmunk, a company to take the agony out of searching for plane and hotel tickets. Steve was named to Inc. Magazine&#39;s 30 under 30 list in 2011. He studied Computer Science at the University of Virginia.
+
+
+Sean Bennett
+COURSE DEVELOPER
+Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs256</field>
+	<field name="course_title">Mobile Website Development and Design Course - Udacity</field>
+	<field name="course_price">$200/month</field>
+	<field name="course_length">1 month</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Chris Wilson</field>
+	<field name="course_instructor">Peter Lubbers</field>
+	<field name="course_instructor_intro">Chris Wilson is an Open Web Platform Developer Advocate at Google working on Chrome. He began working on web browsers in 1993 when he co-authored the original Windows version of NCSA Mosaic, went on to Microsoft to work on Internet Explorer for fifteen years, and joined Google in 2010. He has a particular interest in enabling awesome user experiences on the web platform, and is a long-time participant in various web standards working groups.</field>
+	<field name="course_instructor_intro">Peter Lubbers is a Program Manager at Google in the Chrome Developer Relations team and lives and breathes HTML5. He is the co-author of Pro HTML5 Programming (Apress) and the founder of the San Francisco HTML5 User Group, the largest HTML5 User Group in the world. A native of the Netherlands, Peter served as a Special Forces commando in the Royal Dutch Green Berets. In his spare time Peter likes jumping out of planes, bungee-jumping, and running ultra-marathons.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">So you’ve heard mobile is kind of a big deal, and you’re not sure how to transform your traditional desktop-focused web apps into fast, effective mobile experiences. This course is designed to teach web developers what they need to know to create great cross-device mobile web experiences. This course will focus on building mobile web apps, which will work across multiple platforms including Android, iOS, and others.</field>
+	<field name="course_body">Course Summary
+
+So you’ve heard mobile is kind of a big deal, and you’re not sure how to transform your traditional desktop-focused web apps into fast, effective mobile experiences. This course is designed to teach web developers what they need to know to create great cross-device mobile web experiences. This course will focus on building mobile web apps, which will work across multiple platforms including Android, iOS, and others.
+
+Why Take This Course?
+
+After completing this class, you’ll have built a web application with a first-class mobile experience. You’ll understand what it takes to build great web experiences on mobile devices, have gained experience with the tools you need to test performance, and be able to apply your knowledge to your own projects in the future.
+
+Prerequisites and Requirements
+
+This course is for experienced front-end web developers who’d like to learn what it takes to create great mobile experiences. In order to succeed in this class, you should be comfortable with HTML, CSS, and Javascript, and should have experience creating web apps, either professionally or for fun. You don&#39;t need to know any specific HTML5 extras or APIs, we&#39;ll cover any of those that we need as the course progresses.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Design and build a mobile app that takes advantage of touch screen functionality.
+
+Syllabus
+
+In this course, you will learn how to build web experiences that adapt to the different screen sizes and capabilities that mobile devices offer, and how to scalably optimize media for mobile and desktop. We will cover programming touch interaction, as well as how to optimize form field input for mobile devices and use APIs like geolocation and the accelerometer, and ensuring your web experiences work great when network conditions are sub-optimal. Finally, you’ll gain the tools to investigate performance in mobile applications, with a strong understanding of mobile networking, battery usage patterns and optimizing paint techniques to build smooth animations on mobile.
+
+Lesson 01: Syllabus
+
+We’ll start with a high-level overview of the course and what to expect in it. We’ll also go into more depth on what we mean by mobile web development, and why you should care about it.
+
+Lesson 02: Mobile Development Tools
+
+Workflow and tooling is incredibly important for building great web apps, and this carries over to mobile web development. This lesson will show you how to use the Chrome Developer Tools to develop for the mobile web.
+
+Lesson 03: Mobile UX and Viewport
+
+Designing for the mobile web is all about a smooth user experience. This lesson will get you thinking about how to achieve that on mobile, and we’ll introduce the first of many tools you need to achieve this: the viewport.
+
+Lesson 04: Fluid Design
+
+Mobile means lots of different devices and form factors. We’ll discuss how to make your site responsive, clean, and user-friendly on multiple devices and layouts.
+
+Lesson 05: Media Queries
+
+Sometimes different devices call for fundamentally different layouts. This lesson will teach you how to achieve this using media queries.
+
+Lesson 06: Responsive Images
+
+Media requirements are different in mobile - network constraints and very high resolution screens set up a conflict that can be challenging. We’ll talk about how best to integrate media into your mobile web applications, and adaptively scaling images based on the environment.
+
+Lesson 07: Optimizing Performance
+
+Users expect a fast, seamless experience on mobile. We’ll go over optimizing various performance metrics to improve that experience, such as network, cpu, rendering, and battery performance.
+
+Lesson 08: Touch
+
+Touch input is fundamentally different from mouse input, and requires you to think about your user interactions differently. We’ll go over UX concerns with touch-based interaction, and how to design user interactions that work across devices.
+
+Lesson 09: Input
+
+Using a keyboard on mobile is awful. We’ll discuss ways to improve it, using semantic input for form data, and other user input options on mobile.
+
+Lesson 10: Device Access
+
+Mobile devices have a full array of sensors typically unavailable on desktop. We’ll talk about camera access, geolocation, and other sensors and feedback you have access to on mobile.
+
+Lesson 11: Offline and Storage
+
+It’s an unfortunate reality that mobile users aren’t always online. We’ll go over using the local cache as well as local storage APIs to give your users a great offline (and partially-online) experience as well.
+
+Lesson 12: Wrap-up
+
+We’ll finish up the class by talking briefly about other topics to consider, such as app experience, monetization, deployment and distribution. We’ll also point you to other resources to look at moving forward in your career.Instructors &amp; Partners
+
+
+Chris Wilson
+INSTRUCTOR
+Chris Wilson is an Open Web Platform Developer Advocate at Google working on Chrome. He began working on web browsers in 1993 when he co-authored the original Windows version of NCSA Mosaic, went on to Microsoft to work on Internet Explorer for fifteen years, and joined Google in 2010. He has a particular interest in enabling awesome user experiences on the web platform, and is a long-time participant in various web standards working groups.
+
+
+Peter Lubbers
+INSTRUCTOR
+Peter Lubbers is a Program Manager at Google in the Chrome Developer Relations team and lives and breathes HTML5. He is the co-author of Pro HTML5 Programming (Apress) and the founder of the San Francisco HTML5 User Group, the largest HTML5 User Group in the world. A native of the Netherlands, Peter served as a Special Forces commando in the Royal Dutch Green Berets. In his spare time Peter likes jumping out of planes, bungee-jumping, and running ultra-marathons.
+
+
+Sean Bennett
+COURSE DEVELOPER
+Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.
+
+Google</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs046</field>
+	<field name="course_title">Intro to Programming Course In Java - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">4 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Cay Horstmann</field>
+	<field name="course_instructor">Cheng-Han Lee</field>
+	<field name="course_instructor_intro">Cay grew up in Northern Germany and attended the Christian-Albrechts-Universität in Kiel, a harbor town on the Baltic sea. He received a M.S. in computer science from Syracuse University, and a Ph.D. in mathematics from the University of Michigan in Ann Arbor. For four years, he was VP and CTO of an Internet startup that went from 3 people in a tiny office to a public company. He now teaches computer science at San Jose State University. In his copious spare time, he writes books and articles on programming languages and computer science education.</field>
+	<field name="course_instructor_intro">Cheng-Han worked as a program manager at Microsoft prior to Udacity, and he studied at the University of Texas at Austin and University of California at San Diego for his degrees in computer science.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">In this class, you will learn basic skills and concepts of computer programming in an object-oriented approach using Java.
+
+You will learn concepts like classes, methods and argument passing, loops, and general problem solving ability that will become building blocks to your programming skills.</field>
+	<field name="course_body">Course Summary
+
+In this class, you will learn basic skills and concepts of computer programming in an object-oriented approach using Java.
+
+You will learn concepts like classes, methods and argument passing, loops, and general problem solving ability that will become building blocks to your programming skills.
+
+Why Take This Course?
+
+How to analyze and explain the behavior of programs involving the fundamental program constructs.
+How to write short programs that use the fundamental program constructs including standard conditional and iterative control structures.
+How to design and implement your own classes of Objects given desired attributes and behaviors.
+How to reason about class hierarchies.
+How to write good documentation so your code can be re-used.
+How to use a real-world programming environment and a debugger.
+Prerequisites and Requirements
+
+No prior programming experience and knowledge is assumed or needed.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Introduction to Computers, Programming Languages, Algorithms, and the Java Programming Environment
+
+Lesson 2: Introduction to Classes and Objects
+
+Lesson 3: Graphics
+
+Lesson 4: Fundamental Data Types
+
+Lesson 5: Decisions
+
+Lesson 6: Iterations
+
+Lesson 7: Arrays, ArrayLists and Simple Array Algorithms
+
+Lesson 8: Methods (Parameter Passing, Instance vs. Static Methods)
+
+Lesson 9: InheritanceInstructors &amp; Partners
+
+
+Cay Horstmann
+INSTRUCTOR
+Cay grew up in Northern Germany and attended the Christian-Albrechts-Universität in Kiel, a harbor town on the Baltic sea. He received a M.S. in computer science from Syracuse University, and a Ph.D. in mathematics from the University of Michigan in Ann Arbor. For four years, he was VP and CTO of an Internet startup that went from 3 people in a tiny office to a public company. He now teaches computer science at San Jose State University. In his copious spare time, he writes books and articles on programming languages and computer science education.
+
+
+Cheng-Han Lee
+COURSE DEVELOPER
+Cheng-Han worked as a program manager at Microsoft prior to Udacity, and he studied at the University of Texas at Austin and University of California at San Diego for his degrees in computer science.
+
+Outside of work, Cheng-Han is a world traveler. He has lived in Taiwan, Shanghai, Charleston (SC), Dallas, Austin, San Diego, Seattle, and now the Bay Area. In addition to traveling, he likes to find new parks to explore, new venues to visit, and new restaurants to try.
+
+San Jose State University</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/design101</field>
+	<field name="course_title">Intro to the Design of Everyday Things - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 weeks</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Don Norman</field>
+	<field name="course_instructor">Kristian Simsarian</field>
+	<field name="course_instructor_intro">Don is the author of The Design of Everyday Things. He is both a businessperson (he has worked as a VP at Apple, an Executive at HP and UNext) and an academic who has been a faculty member at Harvard, UC San Diego, Northwestern, and the Korea Advanced Institute of Science and Technology (KAIST). He is a member of the National Academy of Engineering, an IDEO fellow, and a trustee of IIT’s Institute of Design. He can be found at www.jnd.org.</field>
+	<field name="course_instructor_intro">Kristian Simsarian is a design leader, educator and consultant. He is currently the founder and chair of the undergraduate Interaction Design program at California College of the Arts (CCA). Kristian co-founded the Software Experiences practice at IDEO as an Associate Partner, and led design innovation initiatives for many of the world’s most impactful organizations, including: Microsoft, Nokia, Lily, Pfizer, Samsung, Yahoo!, XBOX, SAP, AT&amp;T, Procter &amp; Gamble, the FBI and the National Institutes of Health. After a decade at IDEO he shifted his focus to education while continuing as an IDEO Fellow and independent consultant. As co-teacher of this course, he brings the first steps of actually taking action and becoming a designer yourself.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Everyone designs. Design occurs anytime you deliberately change an environment to make things better. When you decide what seat to take in an auditorium you’re designing your experience. When you rearrange the furniture in a room or draft an email, you’re designing.
+
+This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things (Revised and Expanded Edition, November 2013) by Don Norman. It’s intended to be enjoyable and informative for anyone curious about design: everyday people, technical people, designers, and non-designers alike.</field>
+	<field name="course_body">Course Summary
+
+Everyone designs. Design occurs anytime you deliberately change an environment to make things better. When you decide what seat to take in an auditorium you’re designing your experience. When you rearrange the furniture in a room or draft an email, you’re designing.
+
+This course provides a summary of key concepts from the first two chapters of The Design of Everyday Things (Revised and Expanded Edition, November 2013) by Don Norman. It’s intended to be enjoyable and informative for anyone curious about design: everyday people, technical people, designers, and non-designers alike.
+
+Why Take This Course?
+
+This course will provide you with the knowledge needed to start recognizing the role of design in today’s world, and to start making better design decisions in your own life. In addition to learning basic design concepts such as affordances and signifiers, you will also gain practice in observing and applying design principles.
+
+Prerequisites and Requirements
+
+There are no prerequisites for the course; it’s for anyone curious about basic design principles.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Affordances and Signifiers (4 hours)
+
+Lesson 2: Conceptual Models and the System Image (4 hours)
+
+Lesson 3: Gulfs of Evaluation and Execution (1 hour)
+
+Lesson 3 Project: Design the User Interface (UI) for a Timebank (7 hours)
+
+*The times include watching instructional videos, completing the course exercises, and finishing projects. In total, this course should take an average of 16 hours.Instructors &amp; Partners
+
+
+Don Norman
+INSTRUCTOR
+Don is the author of The Design of Everyday Things. He is both a businessperson (he has worked as a VP at Apple, an Executive at HP and UNext) and an academic who has been a faculty member at Harvard, UC San Diego, Northwestern, and the Korea Advanced Institute of Science and Technology (KAIST). He is a member of the National Academy of Engineering, an IDEO fellow, and a trustee of IIT’s Institute of Design. He can be found at www.jnd.org.
+
+
+Kristian Simsarian
+INSTRUCTOR
+Kristian Simsarian is a design leader, educator and consultant. He is currently the founder and chair of the undergraduate Interaction Design program at California College of the Arts (CCA). Kristian co-founded the Software Experiences practice at IDEO as an Associate Partner, and led design innovation initiatives for many of the world’s most impactful organizations, including: Microsoft, Nokia, Lily, Pfizer, Samsung, Yahoo!, XBOX, SAP, AT&amp;T, Procter &amp; Gamble, the FBI and the National Institutes of Health. After a decade at IDEO he shifted his focus to education while continuing as an IDEO Fellow and independent consultant. As co-teacher of this course, he brings the first steps of actually taking action and becoming a designer yourself.
+
+
+Chelsey Glasson
+COURSE DEVELOPER
+Chelsey Glasson is Lead User Experience Researcher at Udacity and Associate Managing Editor of User Experience (UX) magazine. Her user research skills have impacted a wide variety of web, mobile, enterprise and consumer technologies at diverse companies. Chelsey has a Masters in Human Centered Design and Engineering from the University of Washington, and she’s excited to help with this class because she’s confident it will inspire those new to design to explore user experience and design careers. She often writes about UX careers on her blog: chelseyglassonux.com. You can also find her on Twitter @chelseyglasson.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/st101</field>
+	<field name="course_title">Intro to Statistics - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Statistics is about extracting meaning from data. In this class, we will introduce techniques for visualizing relationships in data and systematic techniques for understanding the relationships using mathematics.</field>
+	<field name="course_body">Intro to Statistics
+Making Decisions Based on DataCourse Summary
+
+Statistics is about extracting meaning from data. In this class, we will introduce techniques for visualizing relationships in data and systematic techniques for understanding the relationships using mathematics.
+
+Why Take This Course?
+
+This course will cover visualization, probability, regression and other topics that will help you learn the basic methods of understanding data with statistics.
+
+Prerequisites and Requirements
+
+This course does not require any previous knowledge of statistics. Basic familiarity with algebra such as knowing how to compute the mean, median and mode of a set of numbers will be helpful.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Visualizing relationships in data
+
+Seeing relationships in data and predicting based on them; Simpson&#39;s paradox
+
+Lesson 2: Probability
+
+Probability; Bayes Rule; Correlation vs. Causation
+
+Lesson 3: Estimation
+
+Maximum Likelihood Estimation; Mean, Median, Mode; Standard Deviation, Variance
+
+Lesson 4: Outliers and Normal Distribution
+
+Outliers, Quartiles; Binomial Distribution; Central Limit Theorem; Manipulating Normal Distribution
+
+Lesson 5: Inference
+
+Confidence intervals; Hypothesis Testing
+
+Lesson 6: Regression
+
+Linear regression; correlation
+
+Lesson 7: Final ExamInstructors &amp; Partners
+
+
+Sebastian Thrun
+INSTRUCTOR
+Sebastian Thrun is a Research Professor of Computer Science at Stanford University, a Google Fellow, a member of the National Academy of Engineering and the German Academy of Sciences. Thrun is best known for his research in robotics and machine learning, specifically his work with self-driving cars.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/wiki/st095</field>
+	<field name="course_title">The Science of Decisions - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">Undefined</field>
+	<field name="course_workload">Undefined</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Undefined</field>
+	<field name="course_body">Undefined</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/bio110</field>
+	<field name="course_title">Tales from the Genome, Introduction to Genetics - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">3 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Matthew Cook</field>
+	<field name="course_instructor">Lauren Castellano</field>
+	<field name="course_instructor">Joanna Mountain</field>
+	<field name="course_instructor">Uta Francke</field>
+	<field name="course_instructor_intro">Originally from North Carolina, Matt is a science lover and strong supporter of scientific skepticism. He plays the piano, studies philosophy, and is still waiting for a virtual reality version of the Legend of Zelda. Matt has been involved extensively in biomedical research and teaching at all levels, from elementary to college. After receiving an International Baccalaureate diploma in high school, Matt studied biology and Hispanic studies at East Carolina University. He then earned his PhD in cell and molecular biology from Duke University before accepting a postdoctoral fellowship at the University of California San Francisco.</field>
+	<field name="course_instructor_intro">Lauren Castellano earned her MA in Experimental Psychology from San Jose State University and her BA in Psychology from the University of Nevada Las Vegas. She has been a teaching assistant for three years. She is passionate about teaching psychology because she believes it applies to everything we do and anyone can benefit from learning about psychology. Lauren is also passionate about traveling and scuba diving; she is a certified rescue diver and a dive master candidate.</field>
+	<field name="course_instructor_intro">Joanna Mountain is a human geneticist who studies the connections between genetics and a broad range of diseases, the prehistory underlying human genetic diversity, and the nature of the relationship between genetic diversity and categories of race and ethnicity. Joanna earned her PhD in Genetics from Stanford University. Currently she is Senior Director of Research at 23andMe, a personal genetics company.</field>
+	<field name="course_instructor_intro">Originally from Germany, Uta Francke received her MD from the University of Munich and then specialized in medical genetics, diagnosing and treating people with genetic disorders. She has carried out laboratory research in both humans and mice, and she has taught clinical and molecular genetics at UCSD, Yale and Stanford University. She currently is Senior Medical Director at 23andMe, a personal genetics company.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This course is a journey into the biology of the human genome and will highlight the scientific, social, and personal perspectives of people living with a variety of traits.</field>
+	<field name="course_body">What Will I Learn?
+
+Syllabus
+
+Lesson 1: Introduction to traits and heredity
+
+Trait variation and categorization, basic models of inheritance, and the connection via DNA. Check out the concept map for this lesson.
+
+Lesson 2: Defining the genome
+
+DNA structure, chromosomes, and genome organization. Check out the concept map for this lesson.
+
+Lesson 3: How a genome works
+
+Protein coding genes, transcription, translation, discerning the genetic code, and alleles. Check out the concept map for this lesson.
+
+Lesson 4: Gene regulation
+
+Non-coding DNA, regulatory regions of genes, and transcription factors. Check out the concept map for this lesson.
+
+Lesson 5: Transmission of genes and traits
+
+Family relationships and pedigrees, inheritance patterns, allele dominance, and chromosome dynamics. Check out the concept map for this lesson.
+
+Lesson 6: Origin of mutation/variation
+
+Types of mutations, various causes of mutation, allelic frequency, and the spread of alleles in a population. Check out the concept map for this lesson.
+
+Lesson 7: How to obtain and interpret personal genetic information
+
+Personalized genetics: sample acquisition, DNA extraction and processing, and interpretation of results. Check out the concept map for this lesson.
+
+Lesson 8: Simple genetic traits
+
+Molecular causes of monogenic traits, loss-of-function vs. gain-of-function alleles, and dominance. Check out the concept map for this lesson.
+
+Lesson 9: Multifactorial traits
+
+Polygenic traits, complex traits with an environmental effect, qualitative and quantitative measures, twin studies, relative risk, and genome-wide association studies (GWAS). Check out the concept map for this lesson.
+
+Lesson 10: Pharmacogenetics: genes and drugs
+
+Pharmacokinetics and pharmacodynamics, alleles affecting drug metabolism, and personalized medicine. Check out the concept map for this lesson.
+
+Lesson 11: Human ancestry and evolution
+
+Identity by state (IBS), Identity by descent (IBD), relative finder, maternal and paternal lineages, neanderthal interbreeding, and human/chimp evolution. Check out the concept map for this lesson.
+
+Lesson 12: The immortal genome (putting genetics to work)
+
+Personal decisions, legal questions, professional options, and the future of genetics. Check out the concept map for this lesson.
+
+Bonus Lesson: Discovering DNA in your Kitchen
+
+Using only normal household items, even YOU can extract DNA and see it live and in person. At the end of this lesson you&#39;ll have the best new party trick EVER. (just remember to bring strawberries) Here is the protocol/procedure to make it happen.Instructors &amp; Partners
+
+
+Matthew Cook
+INSTRUCTOR
+Originally from North Carolina, Matt is a science lover and strong supporter of scientific skepticism. He plays the piano, studies philosophy, and is still waiting for a virtual reality version of the Legend of Zelda. Matt has been involved extensively in biomedical research and teaching at all levels, from elementary to college. After receiving an International Baccalaureate diploma in high school, Matt studied biology and Hispanic studies at East Carolina University. He then earned his PhD in cell and molecular biology from Duke University before accepting a postdoctoral fellowship at the University of California San Francisco.
+
+
+Lauren Castellano
+INSTRUCTOR
+Lauren Castellano earned her MA in Experimental Psychology from San Jose State University and her BA in Psychology from the University of Nevada Las Vegas. She has been a teaching assistant for three years. She is passionate about teaching psychology because she believes it applies to everything we do and anyone can benefit from learning about psychology. Lauren is also passionate about traveling and scuba diving; she is a certified rescue diver and a dive master candidate.
+
+
+Joanna Mountain
+INSTRUCTOR
+Joanna Mountain is a human geneticist who studies the connections between genetics and a broad range of diseases, the prehistory underlying human genetic diversity, and the nature of the relationship between genetic diversity and categories of race and ethnicity. Joanna earned her PhD in Genetics from Stanford University. Currently she is Senior Director of Research at 23andMe, a personal genetics company.
+
+
+Uta Francke
+INSTRUCTOR
+Originally from Germany, Uta Francke received her MD from the University of Munich and then specialized in medical genetics, diagnosing and treating people with genetic disorders. She has carried out laboratory research in both humans and mice, and she has taught clinical and molecular genetics at UCSD, Yale and Stanford University. She currently is Senior Medical Director at 23andMe, a personal genetics company.
+
+
+23andMe Team
+INSTRUCTOR
+The scientists at 23andMe are experts in population, medical and computational genetics, biomedical informatics, reproductive biology, personalized medicine, and pharmacology. They share a passion for helping people understand their genetic information and gain deeper insights into their health, ancestry, and traits. On any given day, they can be found furthering genetic research, making scientific discoveries relevant to individuals, and promoting genomic medicine.
+
+23andMe</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ph100</field>
+	<field name="course_title">Intro to Physics Fundamentals Course (Physics 101) - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Study physics abroad in Europe -- virtually! Learn the basics of physics on location in Italy, the Netherlands and the UK, by answering some of the discipline&#39;s major questions from over the last 2000 years.</field>
+	<field name="course_body">Intro to Physics
+Landmarks in PhysicsCourse Summary
+
+Study physics abroad in Europe -- virtually! Learn the basics of physics on location in Italy, the Netherlands and the UK, by answering some of the discipline&#39;s major questions from over the last 2000 years.
+
+Why Take This Course?
+
+This unique class gives you the chance to see the sites where physics history was made and learn some of the subject&#39;s most captivating concepts.
+
+Prerequisites and Requirements
+
+This course is suitable for anyone; a basic understanding of algebra is suggested.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: How can we measure the circumference of the Earth?
+
+Basics of geometry and trigonometry
+
+Lesson 2: How do objects move?
+
+Data analysis and kinematics
+
+Lesson 3: What causes motion?
+
+Forces, acceleration, and Newton’s Laws
+
+Lesson 4: How can we use motion?
+
+Work, energy, and simple machines
+
+Lesson 5: How can we determine our longitude at sea?
+
+Simple harmonic motion
+
+Lesson 6: What is electricity?
+
+Charge and electric fields
+
+Lesson 7: What is left to discover?
+
+Modern physics and open questionsInstructors &amp; Partners
+
+
+Andy Brown
+INSTRUCTOR
+After graduating from MIT with a degree in physics in 2009, Andy spent two years teaching, traveling around the world, and biking across the United States. When he heard about Udacity, he abandoned his vagabond ways to share his passion for learning and teaching with the world.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ma004</field>
+	<field name="course_title">Intro Algebra Review - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Kelly Vetter</field>
+	<field name="course_instructor">Sue Ann Austin</field>
+	<field name="course_instructor_intro">Kelly Vetter is an instructor at Wake Technical Community College. She has a B.S. in Mathematics Education and a Certificate in E-Learning from North Carolina State University. She has taught math for a total of 17 years and has been teaching developmental math for 12 of those years. She has taught in various formats including the classroom, online, and hybrid courses.</field>
+	<field name="course_instructor_intro">Sue Ann Austin is an instructor at Wake Technical Community College. She has taught developmental math for 4 years and prior to that was a high school math teacher. She has a B.S. in Applied Mathematics from Carnegie-Mellon University and completed the NC Teach program at North Carolina State University. She was a software engineer for 15 years prior to entering the field of education.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This course provides a brief review of introductory algebra topics. Topics to be covered include integer operations, order of operations, perimeter and area, fractions and decimals, scientific notation, ratios and rates, conversions, percents, algebraic expressions, linear equations, the Pythagorean theorem, and graphing.</field>
+	<field name="course_body">Course Summary
+
+This course provides a brief review of introductory algebra topics. Topics to be covered include integer operations, order of operations, perimeter and area, fractions and decimals, scientific notation, ratios and rates, conversions, percents, algebraic expressions, linear equations, the Pythagorean theorem, and graphing.
+
+Why Take This Course?
+
+At the end of this course students will have reviewed the core topics of introductory algebra. Students will be comfortable with the concepts and procedures of introductory algebra, and be able to apply their knowledge to other coursework and real-world problems.
+
+During this course, you will review
+
+Integer operations including addition, subtraction, multiplication, division, and absolute value. Evaluating using order of operations. Associative and Commutative properties. Perimeter and area of rectangles, triangles, squares, and circles. Fraction operations including simplifying, adding, subtracting, multiplying, and dividing. Converting between fractions, decimals, and percents. Rounding decimals to appropriate place value. Converting between standard notation and scientific notation. Rates and ratios. Unit conversions. Simplifying and evaluating algebraic expressions. Using the Pythagorean Theorem. Solving and graphing linear equations. Writing linear equations.
+
+Prerequisites and Requirements
+
+This is a review course, it is expected that students will have some previous knowledge of most topics covered in the course.
+
+
+
+Made possible through a grant from the Bill and Melinda Gates Foundation.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Topic 1: Integer Operations
+
+Properties of Integers
+Absolute Value
+Adding, Subtracting, Multiplying &amp; Dividing
+Order of Operations
+Perimeter and Area of Rectangles, Squares &amp; Triangles
+Topic 2: Fractions and Decimals
+
+Simplifying Fractions
+Mathematical Operations with Fractions
+Rounding Decimals
+Decimals and Applications
+Fraction to Decimal Conversion
+Scientific Notation
+Topic 3: Rates, Ratios, and Conversions
+
+Ratios
+Rates
+Unit Conversions
+Percents
+Topic 4: Algebraic Expressions and Equations
+
+Algebraic Expressions
+Solving a Linear Equation
+Pythagorean Theorem
+Topic 5: Graphing Linear Equations
+
+Graphing a Linear Equation
+Slope of a Line
+Writing a Linear Equation
+Slope and Slope-Intercept FormInstructors &amp; Partners
+
+
+Kelly Vetter
+INSTRUCTOR
+Kelly Vetter is an instructor at Wake Technical Community College. She has a B.S. in Mathematics Education and a Certificate in E-Learning from North Carolina State University. She has taught math for a total of 17 years and has been teaching developmental math for 12 of those years. She has taught in various formats including the classroom, online, and hybrid courses.
+
+
+Sue Ann Austin
+INSTRUCTOR
+Sue Ann Austin is an instructor at Wake Technical Community College. She has taught developmental math for 4 years and prior to that was a high school math teacher. She has a B.S. in Applied Mathematics from Carnegie-Mellon University and completed the NC Teach program at North Carolina State University. She was a software engineer for 15 years prior to entering the field of education.
+
+
+Andy Brown
+COURSE DEVELOPER
+After graduating from MIT with a degree in physics in 2009, Andy spent two years teaching, traveling around the world, and biking across the United States. When he heard about Udacity, he abandoned his vagabond ways to share his passion for learning and teaching with the world.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ma006</field>
+	<field name="course_title">Visualizing Algebra (Intermediate College Algebra) Course - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">4 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Sandra DeSousa</field>
+	<field name="course_instructor">Chris Saden</field>
+	<field name="course_instructor_intro">Sandra DeSousa is an Adjunct Instructor of Mathematics at San Jose State University and San Jose City College. She has been teaching developmental math for the last 6 years (in both small classrooms and large lecture halls). Teaching algebra to her struggling students is her favorite because she loves when they “get it.” She is always trying new and different teaching methods to help her students succeed and is very excited to work with Udacity.</field>
+	<field name="course_instructor_intro">After graduating from Emory in 2008, Chris dabbled in college admissions for a year, which led him to teach high school mathematics in Oakland. He radiates a love for learning and believes everyone deserves a great education. In 2012, Chris joined Udacity to reach thousands of students and share his joy of problem solving with the world.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Throughout this course, we will use algebra to quantify and describe the world around us. Have you ever wondered how many songs can fit onto your flash drive? By the end of the course, you’ll have stronger skills for modeling problems, analyzing patterns, and using algebra to arrive at conclusions.</field>
+	<field name="course_body">Course Summary
+
+Throughout this course, we will use algebra to quantify and describe the world around us. Have you ever wondered how many songs can fit onto your flash drive? By the end of the course, you’ll have stronger skills for modeling problems, analyzing patterns, and using algebra to arrive at conclusions.
+
+Why Take This Course?
+
+Understand and develop the language, models, and tools for math reasoning.
+
+Reason with numbers and units to solve problems.
+
+Identify, analyze, extend, and create patterns and functions.
+
+Make connections about relations and functions through multiple representations: graphs, charts, tables, equations.
+
+Apply mathematical reasoning and logic to solve equations and write equivalent forms.
+
+Prerequisites and Requirements
+
+Almost nothing! Students should know their multiplication tables (1-12) and be proficient with adding and subtracting integers (for example, -7 - 16). A pencil and paper will be a student’s best aid rather than a calculator.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Unit 1 - Review of Foundations
+
+Unit 2 - Equations and Inequalities
+
+Unit 3 - Graphs of Linear Equations
+
+Unit 4 - Systems of Equations
+
+Unit 5 - Exponents and Polynomials
+
+Unit 6 - Factoring
+
+Unit 7 - Rational Expressions
+
+Unit 8 - Rational Exponents and Radicals
+
+Unit 9 - Solving Quadratic Equations
+
+Unit 10 - Quadratic Equations and Applications
+
+Unit 11 - Conic Sections
+
+Unit 12 - Inverses, Exponentials, and LogarithmsInstructors &amp; Partners
+
+
+Sandra DeSousa
+INSTRUCTOR
+Sandra DeSousa is an Adjunct Instructor of Mathematics at San Jose State University and San Jose City College. She has been teaching developmental math for the last 6 years (in both small classrooms and large lecture halls). Teaching algebra to her struggling students is her favorite because she loves when they “get it.” She is always trying new and different teaching methods to help her students succeed and is very excited to work with Udacity.
+
+
+Chris Saden
+COURSE DEVELOPER
+After graduating from Emory in 2008, Chris dabbled in college admissions for a year, which led him to teach high school mathematics in Oakland. He radiates a love for learning and believes everyone deserves a great education. In 2012, Chris joined Udacity to reach thousands of students and share his joy of problem solving with the world.
+
+San Jose State University</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ma008</field>
+	<field name="course_title">College Algebra Course Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">4 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Julie Sliva Spitzer</field>
+	<field name="course_instructor">Miriam Swords Kalk</field>
+	<field name="course_instructor_intro">Julie Sliva Spitzer is a Professor of Mathematics Education in the Mathematics Department at San Jose State University, where she primarily works with prospective mathematics teachers on pedagogy. Her primary area of interest is in teaching mathematics to special education students. She is excited to help increase access to further education through this course.</field>
+	<field name="course_instructor_intro">Miriam feels inspired by the inherent beauty of math and loves helping others develop confidence and excitement as they learn. Having the opportunity to do this with thousands of students all over the world through her work at Udacity is a dream come true. Outside of work, she enjoys singing, baking, teaching yoga, and tutoring high schoolers. Miriam attended Stanford University, where she earned a B.S. in Physics, a B.A. in Philosophy and Religious Studies, and an M.A. in Religious Studies.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Math is everywhere. In this class, you’ll gain an in-depth understanding of algebraic principles, many of which you may have seen before, and learn how to use them to solve problems that we encounter in everyday life. The online version of College Algebra will cover all of the topics that you would see in more traditional class formats, but it will present the material in a way that we hope you’ll find fresh and interesting. You will learn about functions, polynomials, graphing, complex numbers, exponential and logarithmic equations, and much more, all through exploring real-world scenarios.</field>
+	<field name="course_body">Course Summary
+
+Math is everywhere. In this class, you’ll gain an in-depth understanding of algebraic principles, many of which you may have seen before, and learn how to use them to solve problems that we encounter in everyday life. The online version of College Algebra will cover all of the topics that you would see in more traditional class formats, but it will present the material in a way that we hope you’ll find fresh and interesting. You will learn about functions, polynomials, graphing, complex numbers, exponential and logarithmic equations, and much more, all through exploring real-world scenarios.
+
+Why Take This Course?
+
+In this course, you will learn...
+
+To translate word problems into mathematical expressions or equations
+To manipulate algebraic expressions and solve equations
+To graph different types of functions and to understand the relationship between a function’s graph and its equation
+To model growth and decay
+Prerequisites and Requirements
+
+Basic arithmetic - addition, subtraction, multiplication and division of positive and negative numbers. 
+
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+The following topics will be covered. There will be two midterms and one final exam. There are no deadlines unless you are in the SJSU Plus-Udacity for-credit program.
+
+Lesson 1: Number 
+Lesson 2: Expressions 
+Lesson 3: Polynomials 
+Lesson 4: Equations 
+Lesson 5-1: Coordinates 
+Lesson 5-2: Distance 
+Lesson 5-3: Midpoints And Slope 
+Lesson 6-1: Slope And Equations 
+Lesson 6-2: Points 
+Lesson 7: Forms of the Equation of a Line 
+Lesson 8: Inequalities And Absolute Value 
+Lesson 9: More Inequalities And Equations 
+Lesson 10: Parabolas 
+Lesson 11: Factoring 
+Lesson 12: Quadratic and Rational Inequalities 
+Lesson 13: More Parabolas 
+Lesson 14: Completing the Square 
+Lesson 15: Quadratic Formula 
+Lesson 16: Complex Numbers 
+Lesson 17: Functions 
+Lesson 18: Domain and Range 
+Lesson 19: Behavior of Functions 
+Lesson 20: Factor Theorem 
+Lesson 21: Rational Zero Test 
+Lesson 22: Intermediate Value Theorem 
+Lesson 24: Asymptotes 
+Lesson 25: Slant Asymptotes 
+Lesson 26: Transformations 
+Lesson 29: Exponential Functions 
+Lesson 30: Scientific Notation 
+Lesson 31: Logarithmic Functions 
+Lesson 32: Log Properties 
+Lesson 33: Solving Exponential and Logarithmic Equations 
+Lesson 34: Population, Scrolls and SoundInstructors &amp; Partners
+
+
+Julie Sliva Spitzer
+INSTRUCTOR
+Julie Sliva Spitzer is a Professor of Mathematics Education in the Mathematics Department at San Jose State University, where she primarily works with prospective mathematics teachers on pedagogy. Her primary area of interest is in teaching mathematics to special education students. She is excited to help increase access to further education through this course.
+
+
+Miriam Swords Kalk
+COURSE DEVELOPER
+Miriam feels inspired by the inherent beauty of math and loves helping others develop confidence and excitement as they learn. Having the opportunity to do this with thousands of students all over the world through her work at Udacity is a dream come true. Outside of work, she enjoys singing, baking, teaching yoga, and tutoring high schoolers. Miriam attended Stanford University, where she earned a B.S. in Physics, a B.A. in Philosophy and Religious Studies, and an M.A. in Religious Studies.
+
+
+Sarah Norell
+COURSE DEVELOPER
+Sarah Norell holds a PhD in Mathematics from the University of London, UK. She has lectured at the London School of Economics, University of Umeå and Mid-Sweden University, and tutored all ages. Her breadth of experience at different levels has brought insight into some of the underlying problems students have with mathematics and it is this insight she brings to the courses here at Udacity.
+
+San Jose State University</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ps001</field>
+	<field name="course_title">Intro to Psychology - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">4 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Susan Snycerski</field>
+	<field name="course_instructor">Greg Feist</field>
+	<field name="course_instructor_intro">Susan Snycerski has been teaching Introductory Psychology for 15 years. It&#39;s one of her favorite subjects to teach as she feels students can learn so much about themselves and others in this course. She completed her BS in Psychology at Central Michigan University and her Master&#39;s and Ph.D. at Western Michigan University. She was awarded a two-year postdoctoral fellowship from the National Institute on Drug Abuse and holds a graduate certificate in Clinical Trials Administration. She has been teaching at San Jose State for 8 years. Susan enjoys hiking, gourmet cooking, and cheering for the Detroit Red Wings, her favorite NHL hockey team.</field>
+	<field name="course_instructor_intro">Gregory J. Feist is Associate Professor of Psychology in Personality at San Jose State University and Director of the MA Program in Research and Experimental Psychology. He teaches Introduction to Psychology, Test and Measures, and The Psychology of Science. He is co-author of the introductory text, Psychology: Perspectives and Connections (McGraw-Hill). He received his PhD in 1991 from the University of California at Berkeley.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Introduction to Psychology is a journey through all of the major psychological concepts and principles. The knowledge gained from this course will allow students to critically evaluate psychological research and have a more in-depth understanding of human thought and behavior.</field>
+	<field name="course_body">Course Summary
+
+Introduction to Psychology is a journey through all of the major psychological concepts and principles. The knowledge gained from this course will allow students to critically evaluate psychological research and have a more in-depth understanding of human thought and behavior.
+
+Why Take This Course?
+
+Students will be able to:
+
+identify and analyze the social dimension of society as a context for human life, the processes of social change and social continuity, the role of human agency in those processes, and the forces that engender social cohesion and fragmentation.
+
+place contemporary developments in cultural, historical, environmental, and spatial contexts.
+
+identify the dynamics of ethnic, cultural, gender/sexual, age-based, class, regional, national, transnational, and global identities and the similarities, differences, linkages, and interactions between them.
+
+evaluate social science information, draw on different points of view, and formulate applications appropriate to contemporary social issues.
+
+recognize the interactions of social institutions, culture, and environment with the behavior of individuals.
+
+Prerequisites and Requirements
+
+There are no prerequisites, but we encourage curiosity about human nature.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Introduction to Psychology
+
+Lesson 2: Research Methods in Psychology
+
+Lesson 3: The Biology of Behavior
+
+Lesson 4: Sensation and Perception
+
+Lesson 5: Human Development
+
+Lesson 6: Consciousness
+
+Lesson 7: Learning
+
+Lesson 8: Memory
+
+Lesson 9: Language and Thought
+
+Lesson 10: Intelligence
+
+Lesson 11: Motivation and Emotion
+
+Lesson 12: Stress and Health
+
+Lesson 13: Personality
+
+Lesson 14: Social Behavior
+
+Lesson 15: Psychological Disorders
+
+Lesson 16: Treatments for Psychological DisordersInstructors &amp; Partners
+
+
+Susan Snycerski
+INSTRUCTOR
+Susan Snycerski has been teaching Introductory Psychology for 15 years. It&#39;s one of her favorite subjects to teach as she feels students can learn so much about themselves and others in this course. She completed her BS in Psychology at Central Michigan University and her Master&#39;s and Ph.D. at Western Michigan University. She was awarded a two-year postdoctoral fellowship from the National Institute on Drug Abuse and holds a graduate certificate in Clinical Trials Administration. She has been teaching at San Jose State for 8 years. Susan enjoys hiking, gourmet cooking, and cheering for the Detroit Red Wings, her favorite NHL hockey team.
+
+
+Greg Feist
+INSTRUCTOR
+Gregory J. Feist is Associate Professor of Psychology in Personality at San Jose State University and Director of the MA Program in Research and Experimental Psychology. He teaches Introduction to Psychology, Test and Measures, and The Psychology of Science. He is co-author of the introductory text, Psychology: Perspectives and Connections (McGraw-Hill). He received his PhD in 1991 from the University of California at Berkeley.
+
+
+Lauren Castellano
+COURSE DEVELOPER
+Lauren Castellano earned her MA in Experimental Psychology from San Jose State University and her BA in Psychology from the University of Nevada Las Vegas. She has been a teaching assistant for three years. She is passionate about teaching psychology because she believes it applies to everything we do and anyone can benefit from learning about psychology. Lauren is also passionate about traveling and scuba diving; she is a certified rescue diver and a dive master candidate.
+
+San Jose State University</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs215</field>
+	<field name="course_title">Introduction to Algorithms Course Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Ever played the Kevin Bacon game? This class will show you how it works by giving you an introduction to the design and analysis of algorithms, enabling you to discover how individuals are connected.</field>
+	<field name="course_body">Algorithms
+Crunching Social NetworksCourse Summary
+
+Ever played the Kevin Bacon game? This class will show you how it works by giving you an introduction to the design and analysis of algorithms, enabling you to discover how individuals are connected.
+
+Why Take This Course?
+
+By the end of this class you will understand key concepts needed to devise new algorithms for graphs and other important data structures and to evaluate the efficiency of these algorithms.
+
+Prerequisites and Requirements
+
+This class assumes an understanding of programming at the level of CS101, including the ability to read and write short programs in Python; it also assumes a comfort level with mathematical notation at the level of high school Algebra II or the SATs.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: A Social Network Magic Trick
+
+Becoming familiar with algorithm analysis
+
+Lesson 2: Growth Rates in Social Networks
+
+Using mathematical tools to analyze how things are connected
+
+Lesson 3: Basic Graph Algorithms
+
+Finding the quickest route to Kevin Bacon
+
+Lesson 4: It’s Who You Know
+
+Keeping track of your best friends using heaps
+
+Lesson 5: Strong and Weak Bonds
+
+Working with social networks with edge weights.
+
+Lesson 6: Hardness of Network Problems
+
+Exploring what it means for a social network problem to be harder than other.
+
+Lesson 7: Conclusion
+
+Using your knowledgeInstructors &amp; Partners
+
+
+Michael Littman
+INSTRUCTOR
+Michael Littman is a Professor of Computer Science at Rutgers University and (soon) Brown University. He served as department chair at Rutgers for the past several years and leads a machine-learning research group. Michael&#39;s computer science classes on topics such as algorithms, discrete math, and artificial intelligence earned him university-level teaching awards at both Duke and Rutgers. He is a Fellow of the Association for the Advancement of Artificial Intelligence.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs222</field>
+	<field name="course_title">Differential Equations in Action Class Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Jörn Loviscach</field>
+	<field name="course_instructor">Miriam Swords Kalk</field>
+	<field name="course_instructor_intro">Jörn Loviscach is a professor of technical mathematics and computer engineering. In a former life, he was a professor of computer graphics, animation, and simulation, worked as editor and senior editor for several computer magazines. For three years he also served as deputy editor-in-chief of c’t Magazin für Computertechnik, a renowned German biweekly. His research integrates human-computer interaction, visual computing, and audio and music computing. Both as a researcher and as a practitioner he is interested in applying digital media to education. He has published over 1800 video lectures on his YouTube channel on mathematics and computer science, and his channel is one of the most popular of its kind in Germany.</field>
+	<field name="course_instructor_intro">Miriam feels inspired by the inherent beauty of math and loves helping others develop confidence and excitement as they learn. Having the opportunity to do this with thousands of students all over the world through her work at Udacity is a dream come true. Outside of work, she enjoys singing, baking, teaching yoga, and tutoring high schoolers. Miriam attended Stanford University, where she earned a B.S. in Physics, a B.A. in Philosophy and Religious Studies, and an M.A. in Religious Studies.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">In this course you will examine real world problems -- rescue the Apollo 13 astronauts, stop the spread of epidemics, and fight forest fires -- involving differential equations and figure out how to solve them using numerical methods.</field>
+	<field name="course_body">Course Summary
+
+In this course you will examine real world problems -- rescue the Apollo 13 astronauts, stop the spread of epidemics, and fight forest fires -- involving differential equations and figure out how to solve them using numerical methods.
+
+Why Take This Course?
+
+By the end of this course, you&#39;ll develop an intuition for the use of differential equations in the applied sciences. You&#39;ll also learn how to build mathematical models for systems of differential equations. Along the way, you&#39;ll learn how to translate mathematical expressions into Python code, and solve some really cool problems!
+
+Prerequisites and Requirements
+
+You&#39;ll need a basic knowledge of programming for this course, around the level of CS 101 or equivalent. You&#39;ll also need to understand trigonometry at the high school level, as well as basic vector algebra. This class will primarily involve solving equations numerically rather than analytically, but some exposure to calculus and physics at the level of PH 100 wouldn&#39;t hurt.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Rescuing Apollo 13, Part 1
+
+Introduction to the Forward Euler Method
+
+Lesson 2: Rescuing Apollo 13, Part 2
+
+Comparing solvers, Heun’s Method and Symplectic Euler Method
+
+Lesson 3: Analyzing the Spread of Diseases
+
+Implicit methods and stiffness
+
+Lesson 4: There’s Plenty of Fish in the Sea?
+
+Stability, sensitivity, and optimization
+
+Lesson 5: Antilock Brake Systems
+
+Friction, equilibria, and control theory
+
+Lesson 6: The Path of a Forest Fire
+
+Partial differential equations and heat conduction
+
+Lesson 7: Advanced Applications of Numerical Methods
+
+Chaos, software, and predictive capabilityInstructors &amp; Partners
+
+
+Jörn Loviscach
+INSTRUCTOR
+Jörn Loviscach is a professor of technical mathematics and computer engineering. In a former life, he was a professor of computer graphics, animation, and simulation, worked as editor and senior editor for several computer magazines. For three years he also served as deputy editor-in-chief of c’t Magazin für Computertechnik, a renowned German biweekly. His research integrates human-computer interaction, visual computing, and audio and music computing. Both as a researcher and as a practitioner he is interested in applying digital media to education. He has published over 1800 video lectures on his YouTube channel on mathematics and computer science, and his channel is one of the most popular of its kind in Germany.
+
+
+Miriam Swords Kalk
+COURSE DEVELOPER
+Miriam feels inspired by the inherent beauty of math and loves helping others develop confidence and excitement as they learn. Having the opportunity to do this with thousands of students all over the world through her work at Udacity is a dream come true. Outside of work, she enjoys singing, baking, teaching yoga, and tutoring high schoolers. Miriam attended Stanford University, where she earned a B.S. in Physics, a B.A. in Philosophy and Religious Studies, and an M.A. in Religious Studies.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs255</field>
+	<field name="course_title">Learn HTML5 - Game Development Course Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Colt McAnlis</field>
+	<field name="course_instructor">Peter Lubbers</field>
+	<field name="course_instructor_intro">Colt McAnlis is a Developer Advocate at Google focusing on Chrome Games and Native Client; Before that, he was a systems &amp; graphics programmer in the games industry working at Blizzard, Microsoft (Ensemble), and Petroglyph. He also spent 4 years as an Adjunct Professor at SMU Guildhall&#39;s school for game development, where he taught classes on math, physics, graphics, and concurrent programming. When he&#39;s not working with partners, Colt spends his time preparing for an invasion of giant ants from outer space.</field>
+	<field name="course_instructor_intro">Peter Lubbers is a Program Manager at Google in the Chrome Developer Relations team and lives and breathes HTML5. He is the co-author of Pro HTML5 Programming (Apress) and the founder of the San Francisco HTML5 User Group, the largest HTML5 User Group in the world. A native of the Netherlands, Peter served as a Special Forces commando in the Royal Dutch Green Berets. In his spare time Peter likes jumping out of planes, bungee-jumping, and running ultra-marathons.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This course will walk you through the major components of building GRITS, an HTML5 game. We&#39;ll talk about how to take standard game development techniques, and use them to create high performance HTML5 applications.</field>
+	<field name="course_body">Course Summary
+
+This course will walk you through the major components of building GRITS, an HTML5 game. We&#39;ll talk about how to take standard game development techniques, and use them to create high performance HTML5 applications.
+
+Why Take This Course?
+
+At the end of this course, you&#39;ll understand how to develop an HTML5 game. You will gain familiarity with HTML5 features such as 2D canvas and techniques for improving performance.
+
+Prerequisites and Requirements
+
+Knowledge of HTML, Javascript, and how the web works is necessary for this course. There is an optional lesson on the specific parts of Javascript and the DOM that you&#39;ll need for this class as a refresher, but this is not an introductory course on Javascript.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 0
+
+Optional HTML/Javascript crash course
+
+Lesson 1
+
+Introduction to Canvas rendering
+
+Lesson 2
+
+Atlases
+
+Lesson 3
+
+Map rendering
+
+Lesson 4
+
+Basic Input, handling events
+
+Lesson 5
+
+The entity hierarchy
+
+Lesson 6
+
+Box2D, and using external libraries
+
+Lesson 7
+
+Adding sound
+
+Lesson 8
+
+Asynchronous LoadingInstructors &amp; Partners
+
+
+Colt McAnlis
+INSTRUCTOR
+Colt McAnlis is a Developer Advocate at Google focusing on Chrome Games and Native Client; Before that, he was a systems &amp; graphics programmer in the games industry working at Blizzard, Microsoft (Ensemble), and Petroglyph. He also spent 4 years as an Adjunct Professor at SMU Guildhall&#39;s school for game development, where he taught classes on math, physics, graphics, and concurrent programming. When he&#39;s not working with partners, Colt spends his time preparing for an invasion of giant ants from outer space.
+
+
+Peter Lubbers
+INSTRUCTOR
+Peter Lubbers is a Program Manager at Google in the Chrome Developer Relations team and lives and breathes HTML5. He is the co-author of Pro HTML5 Programming (Apress) and the founder of the San Francisco HTML5 User Group, the largest HTML5 User Group in the world. A native of the Netherlands, Peter served as a Special Forces commando in the Royal Dutch Green Berets. In his spare time Peter likes jumping out of planes, bungee-jumping, and running ultra-marathons.
+
+
+Sean Bennett
+COURSE DEVELOPER
+Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.
+
+GoogleWhen does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs258</field>
+	<field name="course_title">Software Testing Methodologies Class Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">1 month</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">John Regehr</field>
+	<field name="course_instructor">Sean Bennett</field>
+	<field name="course_instructor_intro">John Regehr is a computer science professor at the University of Utah. His research is on making software fail and on making software that fails less often. Lately, he is obsessed with compiler bugs and integer overflow problems.</field>
+	<field name="course_instructor_intro">Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">When writing software, destruction can be just as valuable as creation. Learn how to catch bugs and break software as you discover different testing methods that will help you build better software.</field>
+	<field name="course_body">Course Summary
+
+When writing software, destruction can be just as valuable as creation. Learn how to catch bugs and break software as you discover different testing methods that will help you build better software.
+
+Why Take This Course?
+
+This course will teach you how to think like a software tester, how to find bugs in code earlier, and write better code.
+
+Prerequisites and Requirements
+
+Programming experience is required.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Domains, Ranges, Oracles, and Kinds of Testing
+
+How to think about the different elements of software testing
+
+Lesson 2: Code Coverage
+
+How to find parts of a program that need more testing
+
+Lesson 3: Random Testing
+
+How to automatically generate test cases that break code in unexpected ways
+
+Lesson 4: Advanced Random Testing
+
+How to engineer a sophisticated random test case generator
+
+Lesson 5: Consequences
+
+How to deal with lots of bugs, how to take a big input that triggers a bug and make it smaller, how to report a bug, and more!
+
+Lesson 6: ConclusionInstructors &amp; Partners
+
+
+John Regehr
+INSTRUCTOR
+John Regehr is a computer science professor at the University of Utah. His research is on making software fail and on making software that fails less often. Lately, he is obsessed with compiler bugs and integer overflow problems.
+
+
+Sean Bennett
+COURSE DEVELOPER
+Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs259</field>
+	<field name="course_title">Software Debugging Class Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Andreas Zeller</field>
+	<field name="course_instructor">Gundega Dekena</field>
+	<field name="course_instructor_intro">Andreas Zeller is a computer science professor at Saarland University, Germany. His research centers on programmer productivity: What can be done to ease the life and work of programmers? Among Linux and Unix programmers, he is best known for GNU DDD, a debugger front-end with built-in data visualization. Among academics and advanced professionals, Zeller is best known for Delta Debugging, a technique that automatically isolates failure causes for computer programs.</field>
+	<field name="course_instructor_intro">Once upon a time Gundega was a Udacity student. In a way she still is, because she is learning new things from instructors she works with and her Udacity coworkers every day.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">In this class you will learn how to debug programs systematically, how to automate the debugging process and build several automated debugging tools in Python.</field>
+	<field name="course_body">Course Summary
+
+In this class you will learn how to debug programs systematically, how to automate the debugging process and build several automated debugging tools in Python.
+
+Why Take This Course?
+
+At the end of this course you will have a solid understanding about systematic debugging, will know how to automate debugging and will have built several functional debugging tools in Python.
+
+Prerequisites and Requirements
+
+Basic knowledge of programming and Python at the level of Udacity CS101 or better is required. Basic understanding of Object-oriented programming is helpful.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: How Debuggers work
+
+Theory: Scientific method and its application to debugging. 
+Fun fact: First bug in the history of computer science. 
+Practice: Building a simple tracer.
+
+Lesson 2: Asserting Expectations
+
+Theory: Assertions in testing and in debugging. 
+Fun fact: The most expensive bug in history. 
+Practice: Improving the tracer.
+
+Lesson 3: Simplifying Failures
+
+Theory: Strategy of simplifying failures. Binary search. Delta debugging principle. 
+Fun fact: Mozilla bugathon. 
+Practice: Building a delta debugger.
+
+Lesson 4: Tracking Origins
+
+Theory: Cause-effect chain. Deduction. Dependencies. Slices. 
+Fun fact: Sherlock Holmes and Doctor Watson. 
+Practice: Improving the delta debugger.
+
+Lesson 5: Reproducing Failures
+
+Theory: Types of bugs (Bohr bug, Heisenbug, Mandelbug, Schrodinbug). Systematic reproduction process. 
+Fun fact: Mad laptop bug. 
+Practice: Building a statistic debugging tool.
+
+Lesson 6: Learning from Mistakes
+
+Theory: Bug database management. Classifying bugs. Bug maps. Learning from mistakes. 
+Fun fact: Programmer with the most buggy code. 
+Practice: Improving your tools and practicing on a real world bug database.Instructors &amp; Partners
+
+
+Andreas Zeller
+INSTRUCTOR
+Andreas Zeller is a computer science professor at Saarland University, Germany. His research centers on programmer productivity: What can be done to ease the life and work of programmers? Among Linux and Unix programmers, he is best known for GNU DDD, a debugger front-end with built-in data visualization. Among academics and advanced professionals, Zeller is best known for Delta Debugging, a technique that automatically isolates failure causes for computer programs.
+
+
+Gundega Dekena
+COURSE DEVELOPER
+Once upon a time Gundega was a Udacity student. In a way she still is, because she is learning new things from instructors she works with and her Udacity coworkers every day.
+
+If you occasionally want to read fun news about robotics, science and games, follow her on G+ - https://plus.google.com/+GundegaDekena.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs262</field>
+	<field name="course_title">Programming Languages: Building A Web Browser - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This class will give you an introduction to the fundamentals of programming languages. Key concepts include how to specify and process valid strings, sentences and program structures.</field>
+	<field name="course_body">Programming Languages
+Building a Web BrowserCourse Summary
+
+This class will give you an introduction to the fundamentals of programming languages. Key concepts include how to specify and process valid strings, sentences and program structures.
+
+Why Take This Course?
+
+Take this class and learn how to build your own simple web browser complete with the ability to parse and understand HTML and JavaScript.
+
+Prerequisites and Requirements
+
+This course assumes previous programming experience, comparable to what is covered by the Udacity CS101 course.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+String Patterns
+
+Finding and specifying classes of strings using regular expressions
+
+Lexical Analysis
+
+Breaking strings down into important words
+
+Grammars
+
+Specifying and deconstructing valid sentences
+
+Parsing
+
+Turning sentences into trees
+
+Interpreting
+
+Simulating programs
+
+Building a Web Browser
+
+Interpreting HTML and JavaScript
+
+Wrap-up
+
+Exam testing your knowledgeInstructors &amp; Partners
+
+
+Westley Weimer
+INSTRUCTOR
+Westley Weimer is a Professor of Computer Science at the University of Virginia where he teaches computer science and leads research in programming languages and software engineering. He has won three awards for teaching and over half a dozen &quot;best paper&quot; awards for research. He has MS and PhD degrees from the University of California at Berkeley.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs271</field>
+	<field name="course_title">Intro to Artificial Intelligence Class Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">3 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Peter Norvig</field>
+	<field name="course_instructor">Sebastian Thrun</field>
+	<field name="course_instructor_intro">Peter Norvig is Director of Research at Google Inc. He is also a Fellow of the American Association for Artificial Intelligence and the Association for Computing Machinery. Norvig is co-author of the popular textbook Artificial Intelligence: A Modern Approach. Prior to joining Google he was the head of the Computation Sciences Division at NASA Ames Research Center.</field>
+	<field name="course_instructor_intro">Sebastian Thrun is a Research Professor of Computer Science at Stanford University, a Google Fellow, a member of the National Academy of Engineering and the German Academy of Sciences. Thrun is best known for his research in robotics and machine learning, specifically his work with self-driving cars.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">The objective of this class is to teach you modern AI. You will learn about the basic techniques and tricks of the trade. We also aspire to excite you about the field of AI.</field>
+	<field name="course_body">Course Summary
+
+The objective of this class is to teach you modern AI. You will learn about the basic techniques and tricks of the trade. We also aspire to excite you about the field of AI.
+
+Why Take This Course?
+
+This class introduces students to the basics of Artificial Intelligence, which includes machine learning, probabilistic reasoning, robotics, and natural language processing.
+
+Prerequisites and Requirements
+
+Some of the topics in Introduction to Artificial Intelligence will build on probability theory and linear algebra. You should have understanding of probability theory comparable to that at our ST101: Introduction to Statistics class
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Overview of AI
+
+Statistics, Uncertainty, and Bayes networks
+
+Machine Learning
+
+Logic and Planning
+
+Markov Decision Processes and Reinforcement Learning
+
+Hidden Markov Models and Filters
+
+Adversarial and Advanced Planning
+
+Image Processing and Computer Vision
+
+Robotics and robot motion planning
+
+Natural Language Processing and Information RetrievalInstructors &amp; Partners
+
+
+Peter Norvig
+INSTRUCTOR
+Peter Norvig is Director of Research at Google Inc. He is also a Fellow of the American Association for Artificial Intelligence and the Association for Computing Machinery. Norvig is co-author of the popular textbook Artificial Intelligence: A Modern Approach. Prior to joining Google he was the head of the Computation Sciences Division at NASA Ames Research Center.
+
+
+Sebastian Thrun
+INSTRUCTOR
+Sebastian Thrun is a Research Professor of Computer Science at Stanford University, a Google Fellow, a member of the National Academy of Engineering and the German Academy of Sciences. Thrun is best known for his research in robotics and machine learning, specifically his work with self-driving cars.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs291</field>
+	<field name="course_title">Interactive 3D Graphics Course With Three.js &amp; WebGL - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Eric Haines</field>
+	<field name="course_instructor">Gundega Dekena</field>
+	<field name="course_instructor_intro">Eric Haines is a Senior Principal Engineer at Autodesk, Inc., working on a next-generation interactive rendering system for computer-aided design applications. He is a coauthor of the book “Real-Time Rendering”, a founder and editor of the Journal of Computer Graphics Techniques, and maintainer of the Graphics Gems code repository, among other activities. He received an MS from the Program of Computer Graphics at Cornell in 1985.</field>
+	<field name="course_instructor_intro">Once upon a time Gundega was a Udacity student. In a way she still is, because she is learning new things from instructors she works with and her Udacity coworkers every day.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This class will teach you about the basic principles of 3D computer graphics: meshes, transforms, cameras, materials, lighting, and animation.</field>
+	<field name="course_body">Course Summary
+
+This class will teach you about the basic principles of 3D computer graphics: meshes, transforms, cameras, materials, lighting, and animation.
+
+Why Take This Course?
+
+By the end of this class you will know enough to make an animated 3D demo program that runs in a web browser, while also understanding the basic principles of how realistic computer images are generated.
+
+You will also have a portfolio of small interactive programs that run in any web browser that supports WebGL.
+
+Prerequisites and Requirements
+
+Knowing how to program in some language is all you’ll need to get started. Some knowledge of JavaScript is useful later on if you wish to make your projects more interactive and engaging. Familiarity with vectors and matrices will ease your way but is not critical.
+
+To be able to see the interactive demos and do programming assignments you need a browser that supports WebGL technology. An up to date version of Chrome or Firefox will work (see our FAQ for more information). You can test if your browser supports this technology by visiting the WebGL project homepage.
+
+Almost all programming will be done in JavaScript using three.js library/API.
+
+
+About Autodesk
+
+This course is developed in conjunction with Autodesk, a worldwide leader in 3D design, engineering, and entertainment software. http://www.autodesk.com
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Introduction
+
+Motivation and a trip down the graphics pipeline, laying out the fundamental processes
+
+Lesson 2: Points, Vectors, and Meshes
+
+The basics of 3D geometry definition
+
+Lesson 3: Colors and Materials
+
+Color representation, material computations, transparency
+
+Lesson 4: Transforms
+
+Translation, scale, rotate and how to properly combine all these
+
+Lesson 5: Matrices
+
+Transform representation and how to fully control these
+
+Lesson 6: Lights
+
+Directional and point light sources
+
+Lesson 7: Cameras
+
+How the camera is defined
+
+Lesson 8: Textures and Reflections
+
+Color and opacity textures, along with reflection and normal mapping
+
+Lesson 9: Shader Programming
+
+An introduction to programming vertex and pixel shaders
+
+Lesson 10: Interaction and Animation
+
+How to select and make objects moveInstructors &amp; Partners
+
+
+Eric Haines
+INSTRUCTOR
+Eric Haines is a Senior Principal Engineer at Autodesk, Inc., working on a next-generation interactive rendering system for computer-aided design applications. He is a coauthor of the book “Real-Time Rendering”, a founder and editor of the Journal of Computer Graphics Techniques, and maintainer of the Graphics Gems code repository, among other activities. He received an MS from the Program of Computer Graphics at Cornell in 1985.
+
+
+Gundega Dekena
+COURSE DEVELOPER
+Once upon a time Gundega was a Udacity student. In a way she still is, because she is learning new things from instructors she works with and her Udacity coworkers every day.
+
+If you occasionally want to read fun news about robotics, science and games, follow her on G+ - https://plus.google.com/+GundegaDekena.
+
+AutodeskWhen does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs313</field>
+	<field name="course_title">Introduction To Theoretical Computer Science - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Sebastian Wernicke</field>
+	<field name="course_instructor">Sean Bennett</field>
+	<field name="course_instructor_intro">Sebastian studied Bioinformatics at Universität Tübingen and holds a Ph.D. from Universität Jena in Germany, where his research focused on finding efficient algorithms for computationally hard problems on biological networks. After several years of strategic consulting for pharma companies and financial services, he&#39;s currently working with Seven Bridges Genomics, a big data bioinformatics startup. He is also well-known for his TED Talks, especially the one on the statistics of TED Talks..</field>
+	<field name="course_instructor_intro">Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This class teaches you about basic concepts in theoretical computer science -- such as NP-completeness -- and what they imply for solving tough algorithmic problems.</field>
+	<field name="course_body">Course Summary
+
+This class teaches you about basic concepts in theoretical computer science -- such as NP-completeness -- and what they imply for solving tough algorithmic problems.
+
+Why Take This Course?
+
+At the end of this course, you will have a solid understanding of theoretical computer science. This will not only allow you to recognize some of the most challenging algorithmic problems out there, but also give you powerful tools to deal with them in practice.
+
+Prerequisites and Requirements
+
+You should have a basic understanding of algorithms (such as CS215) and programming (such as CS101). No prior knowledge about theoretical computer science required!
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Challenging Problems
+
+An introduction to tough problems and their analysis
+
+Lesson 2: Understanding Hardness
+
+What we mean when a problem is “hard” and the concept of NP-completeness
+
+Lesson 3: Showing Hardness
+
+Tools to let you recognize and prove that a problem is hard
+
+Lesson 4: Intelligent Force
+
+Smart techniques to solve problems that should – theoretically – be impossible to solve
+
+Lesson 5: Sloppy Solutions
+
+Gaining speed by accepting approximate solutions
+
+Lesson 6: Poking Around
+
+Why randomness can be of help – sometimes. An introduction to complexity classes.
+
+Lesson 7: Ultimate Limits
+
+Problems that no computer can ever solve. In theory.Instructors &amp; Partners
+
+
+Sebastian Wernicke
+INSTRUCTOR
+Sebastian studied Bioinformatics at Universität Tübingen and holds a Ph.D. from Universität Jena in Germany, where his research focused on finding efficient algorithms for computationally hard problems on biological networks. After several years of strategic consulting for pharma companies and financial services, he&#39;s currently working with Seven Bridges Genomics, a big data bioinformatics startup. He is also well-known for his TED Talks, especially the one on the statistics of TED Talks..
+
+
+Sean Bennett
+COURSE DEVELOPER
+Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.
+
+
+Sarah Norell
+COURSE DEVELOPER
+Sarah Norell holds a PhD in Mathematics from the University of London, UK. She has lectured at the London School of Economics, University of Umeå and Mid-Sweden University, and tutored all ages. Her breadth of experience at different levels has brought insight into some of the underlying problems students have with mathematics and it is this insight she brings to the courses here at Udacity.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ep245</field>
+	<field name="course_title">How To Build A Startup: The Lean Launchpad - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">1 month</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Steve Blank</field>
+	<field name="course_instructor">Kathleen Mullaney</field>
+	<field name="course_instructor_intro">Steve Blank is a seasoned Silicon Valley entrepreneur. Translation: he has failed and--more often--succeeded, in a 21-year career building 8 Valley startups, including several with major IPO&#39;s. Along the way, he&#39;s learned an incredible amount, and has spent the last decade sharing what he&#39;s learned with entrepreneurs all over the world. Author of two famous books on entrepreneurship, The Four Steps to the Epiphany, and The Startup Owner&#39;s Manual. Steve teaches entrepreneurship at Udacity, Stanford, Berkeley, Columbia, and other major universities worldwide. He was named &quot;Master of Innovation&quot; by Harvard Business Review and is an advisor to many successful entrepreneurs. He is also an avid conservationist, contributing generously to preserve the California Coast.</field>
+	<field name="course_instructor_intro">Kathleen manages content development at Udacity. EP245 is the first class for which she is working as the official Assistant Instructor. She&#39;s learned a lot from Steve while producing his class and hopes to help students with the course in any way she can!</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank&#39;s famous Customer Development process, where entrepreneurs &quot;get out of the building&quot; to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.</field>
+	<field name="course_body">Course Summary
+
+Learn the key tools and steps to build a successful startup (or at least reduce the risk of failure). An introduction to the basics of Steve Blank&#39;s famous Customer Development process, where entrepreneurs &quot;get out of the building&quot; to gather massive amounts of customer and marketplace feedback, and then use that feedback to continuously iterate and evolve their startup business models, improving the chances of success at every step.
+
+Why Take This Course?
+
+You&#39;ll learn the key steps of the Customer Development process: how to identify and engage the first customers for your product, and how to gather, evaluate and use their feedback to make your product, marketing and business model far stronger.
+
+Prerequisites and Requirements
+
+Prior knowledge or experience are not required. Passion, tenacity, and a willingness to work hard are essential. Ideally, you&#39;ll join the class with at least a rough idea of the business model of the startup you&#39;ll work on step-by-step through the course of the class.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: What We Now Know
+
+Why startups are not smaller versions of large companies
+
+Lessons 1.5A and 1.5B: Business Models and Customer Development
+
+How to articulate and test hypotheses
+
+Lesson 2: Value Proposition
+
+How do you find your minimum viable product?
+
+Lesson 3: Customer Segments
+
+How do you find your customer archetype?
+
+Lesson 4: Channels
+
+How does your product gets to customers?
+
+Lesson 5: Customer Relationships
+
+How do you get, keep and grow customers?
+
+Lesson 6: Revenue Models
+
+How do you make your money?
+
+Lesson 7: Partners
+
+Who are your partners and suppliers?
+
+Lesson 8: Resources, Activities and Costs
+
+What is most important for the business?Instructors &amp; Partners
+
+
+Steve Blank
+INSTRUCTOR
+Steve Blank is a seasoned Silicon Valley entrepreneur. Translation: he has failed and--more often--succeeded, in a 21-year career building 8 Valley startups, including several with major IPO&#39;s. Along the way, he&#39;s learned an incredible amount, and has spent the last decade sharing what he&#39;s learned with entrepreneurs all over the world. Author of two famous books on entrepreneurship, The Four Steps to the Epiphany, and The Startup Owner&#39;s Manual. Steve teaches entrepreneurship at Udacity, Stanford, Berkeley, Columbia, and other major universities worldwide. He was named &quot;Master of Innovation&quot; by Harvard Business Review and is an advisor to many successful entrepreneurs. He is also an avid conservationist, contributing generously to preserve the California Coast.
+
+
+Kathleen Mullaney
+COURSE DEVELOPER
+Kathleen manages content development at Udacity. EP245 is the first class for which she is working as the official Assistant Instructor. She&#39;s learned a lot from Steve while producing his class and hopes to help students with the course in any way she can!When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs212</field>
+	<field name="course_title">Design of Computer Programs: Programming Principles - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Learn new concepts, patterns, and methods that will expand your programming abilities, helping move you from a novice to an expert programmer.</field>
+	<field name="course_body">Design of Computer Programs
+Programming PrinciplesCourse Summary
+
+Learn new concepts, patterns, and methods that will expand your programming abilities, helping move you from a novice to an expert programmer.
+
+Why Take This Course?
+
+Move along the path towards becoming an expert programmer! In this class you will practice going from a problem description to a solution, using a series of assignments.
+
+Prerequisites and Requirements
+
+This course assumes previous programming experience, comparable to what is covered by the Udacity CS101 course.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Winning Poker Hands
+
+Steps of the design process; Developing for clarity and generality; Arguments for program correctness; Experimentation and simulation.; Design tradeoffs; Simplicity and Clarity. Decomposition and composability.
+
+Lesson 2: Back of the Envelope
+
+Back of envelope calculations; When to use brute force and when to be clever; The Zebra puzzle; Generator expressions; Permutations and combinations. Cryptarithmetic; Recursive and wishful thinking.
+
+Lesson 3: Regular Expressions, other languages and interpreters
+
+Defining the language of regular expressions; Interpreting the language; Defining the set of strings matched by a regular expression; 
+Other languages.
+
+Lesson 4: Dealing with complexity through search
+
+Search: finding your way with a flashlight or boat; pouring water. Analyzing the efficiency of an algorithm; Recurrence relations; Matching data types with algorithms; Longest palindrome substring algorithm.
+
+Lesson 5: Dealing with uncertainty through probability
+
+Probability: the game of Pig; Maximizing expected utility to optimize strategy.
+
+Lesson 6: Word Games
+
+Managing complexity; Large sets of words; Appropriate data structures; Word games.
+
+Lesson 7: Conclusion
+
+Final exam/projectInstructors &amp; Partners
+
+
+Peter Norvig
+INSTRUCTOR
+Peter Norvig is Director of Research at Google Inc. He is also a Fellow of the American Association for Artificial Intelligence and the Association for Computing Machinery. Norvig is co-author of the popular textbook Artificial Intelligence: A Modern Approach. Prior to joining Google he was the head of the Computation Sciences Division at NASA Ames Research Center.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs344</field>
+	<field name="course_title">Introduction to Parallel Programming With CUDA - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">3 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">David Luebke</field>
+	<field name="course_instructor">John Owens</field>
+	<field name="course_instructor">Mike Roberts</field>
+	<field name="course_instructor">Cheng-Han Lee</field>
+	<field name="course_instructor_intro">David Luebke helped found NVIDIA Research in 2006 after eight years teaching computer science on the faculty of the University of Virginia. Dave&#39;s research on real-time 3D computer graphics led to an early interest in GPU computing when that field was still in its infancy. Today Dave is senior director of graphics research and a NVIDIA Distinguished Inventor. Dave lives in central Virginia with his wife and three boys, plays racquetball and ultimate frisbee, and prefers college hoops to the NBA. Find him at his website and @davedotluebke on Twitter.</field>
+	<field name="course_instructor_intro">John Owens is an associate professor of electrical and computer engineering at the University of California, Davis, where he leads a research group in parallel computing. He joined the faculty at UC Davis after many happy years as a student at Stanford (graduate) and Berkeley (undergraduate), and lives in Berkeley with his wife and daughter. In his free time, he enjoys puzzles, water polo, and pursuing a finite Erdős-Bacon number. John has a web page and (after his recent sabbatical at Twitter) is learning how to tweet at @jowens.</field>
+	<field name="course_instructor_intro">Mike Roberts is a computer science PhD student at Stanford University. Before coming to Stanford, Mike spent two years doing GPU computing research at Harvard University, where he was involved in an exciting interdisciplinary project to construct a nanometer-scale wiring diagram of a mouse brain. Mike also collects rare funk 45s, and he used to DJ at a Motown night with his best friend every weekend. You can see what Mike is up to on his website.</field>
+	<field name="course_instructor_intro">Cheng-Han worked as a program manager at Microsoft prior to Udacity, and he studied at the University of Texas at Austin and University of California at San Diego for his degrees in computer science.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Learn the fundamentals of parallel computing with the GPU and the CUDA programming environment! In this class, you&#39;ll learn about parallel programming by coding a series of image processing algorithms, such as you might find in Photoshop or Instagram. You&#39;ll be able to program and run your assignments on high-end GPUs, even if you don&#39;t own one yourself.
+
+Why It’s Important to Think Parallel
+
+Third Pillar of Science 
+Learn how scientific discovery can be accelerated by combining theory and experimentation with computing to fight cancer, prevent heart attacks, and spur new advances in robotic surgery.</field>
+	<field name="course_body">What Will I Learn?
+
+Syllabus
+
+Lesson 1: GPU Programming Model
+
+Project 1: Greyscale Conversion (for that classy touch!)
+
+Lesson 2: GPU Hardware and Parallel Communication
+
+Project 2: Smart Blurring (miracle product for removing wrinkles!)
+
+Lesson 3: Fundamental Parallel Algorithms
+
+Project 3: HDR Tonemapping (when 1000:1 contrast is not enough!)
+
+Lesson 4: Using Sort and Scan
+
+Project 4: Red Eye Removal (soothing relief for bright red eyes)
+
+Lesson 5: Optimizing GPU Programs
+
+Project 5: Accelerating Histograms (when fast isn&#39;t fast enough)
+
+Lesson 6: Parallel Computing Patterns
+
+Project 6: Seamless Image Compositing (polar bear in the swimming pool)
+
+Lesson 7: The Frontiers and Future of GPU ComputingInstructors &amp; Partners
+
+
+David Luebke
+INSTRUCTOR
+David Luebke helped found NVIDIA Research in 2006 after eight years teaching computer science on the faculty of the University of Virginia. Dave&#39;s research on real-time 3D computer graphics led to an early interest in GPU computing when that field was still in its infancy. Today Dave is senior director of graphics research and a NVIDIA Distinguished Inventor. Dave lives in central Virginia with his wife and three boys, plays racquetball and ultimate frisbee, and prefers college hoops to the NBA. Find him at his website and @davedotluebke on Twitter.
+
+
+John Owens
+INSTRUCTOR
+John Owens is an associate professor of electrical and computer engineering at the University of California, Davis, where he leads a research group in parallel computing. He joined the faculty at UC Davis after many happy years as a student at Stanford (graduate) and Berkeley (undergraduate), and lives in Berkeley with his wife and daughter. In his free time, he enjoys puzzles, water polo, and pursuing a finite Erdős-Bacon number. John has a web page and (after his recent sabbatical at Twitter) is learning how to tweet at @jowens.
+
+
+Mike Roberts
+COURSE DEVELOPER
+Mike Roberts is a computer science PhD student at Stanford University. Before coming to Stanford, Mike spent two years doing GPU computing research at Harvard University, where he was involved in an exciting interdisciplinary project to construct a nanometer-scale wiring diagram of a mouse brain. Mike also collects rare funk 45s, and he used to DJ at a Motown night with his best friend every weekend. You can see what Mike is up to on his website.
+
+
+Cheng-Han Lee
+COURSE DEVELOPER
+Cheng-Han worked as a program manager at Microsoft prior to Udacity, and he studied at the University of Texas at Austin and University of California at San Diego for his degrees in computer science.
+
+Outside of work, Cheng-Han is a world traveler. He has lived in Taiwan, Shanghai, Charleston (SC), Dallas, Austin, San Diego, Seattle, and now the Bay Area. In addition to traveling, he likes to find new parks to explore, new venues to visit, and new restaurants to try.
+
+NvidiaWhen does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs348</field>
+	<field name="course_title">Functional Hardware Verification Class With Cadence - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Hannes Fröhlich</field>
+	<field name="course_instructor">Axel Scherer</field>
+	<field name="course_instructor_intro">Member of the Product Expert Team in the Functional Verification R&amp;D group of Cadence Design Systems, a leading global Electronic Design Automation company. My primary focus area is the Specman/e and UVM Multi-language solution. I have 10 years of verification experience spanning from an AE to AE Manager to Solutions Architect.</field>
+	<field name="course_instructor_intro">Axel Scherer is a senior engineer and manager with over 10 years of experience building new markets and innovating technical products. Currently, Axel is leading a team for Testbenches and Verification Methodologies in the Functional Verification R&amp;D group at Cadence Design Systems, a leading global Electronic Design Automation company. Axel&#39;s work centers on advanced verification on various technologies spanning formal equivalence checking, model checking, assertion-based verification and test bench simulation. He is a passionate and innovative leader with a proven track record of motivating and enabling global teams to succeed.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">When developing chips it is essential that they get verified thoroughly because it is very hard or impossible to fix them once they have been manufactured. In this class, you will learn how to program verification environments that verify chip functionality efficiently, as well as understand and leverage automation such as constrained random test generation and improve code reuse leveraging a standardized methodology.</field>
+	<field name="course_body">Course Summary
+
+When developing chips it is essential that they get verified thoroughly because it is very hard or impossible to fix them once they have been manufactured. In this class, you will learn how to program verification environments that verify chip functionality efficiently, as well as understand and leverage automation such as constrained random test generation and improve code reuse leveraging a standardized methodology.
+
+Why Take This Course?
+
+This course will teach you how to think like a verification engineer. It will show the software development aspects you need to know to ensure chips are working as expected. You will learn how to implement verification environments.
+
+Prerequisites and Requirements
+
+Programming experience including object-oriented programming. Data &amp; Control structure. 
+
+
+This course is developed by Cadence Design Systems, a global leader in electronic design automation. Cadence® software, hardware, IP, and services help customers around the world to overcome a range of technical and economic hurdles.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Introduction to Hardware Verification
+
+Lesson 2: Basic stimulus modeling and generation
+
+Lesson 3: Interfacing to the Hardware Model
+
+Lesson 4: Monitoring and Functional Coverage
+
+Lesson 5: Checking
+
+Lesson 6: Aspect Oriented Programming
+
+Lesson 7: Reuse Methodology
+
+Lesson 8: Debugging
+
+Lesson 9: Conclusion and ExamInstructors &amp; Partners
+
+
+Hannes Fröhlich
+INSTRUCTOR
+Member of the Product Expert Team in the Functional Verification R&amp;D group of Cadence Design Systems, a leading global Electronic Design Automation company. My primary focus area is the Specman/e and UVM Multi-language solution. I have 10 years of verification experience spanning from an AE to AE Manager to Solutions Architect.
+
+
+Axel Scherer
+INSTRUCTOR
+Axel Scherer is a senior engineer and manager with over 10 years of experience building new markets and innovating technical products. Currently, Axel is leading a team for Testbenches and Verification Methodologies in the Functional Verification R&amp;D group at Cadence Design Systems, a leading global Electronic Design Automation company. Axel&#39;s work centers on advanced verification on various technologies spanning formal equivalence checking, model checking, assertion-based verification and test bench simulation. He is a passionate and innovative leader with a proven track record of motivating and enabling global teams to succeed.
+
+CadenceWhen does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs373</field>
+	<field name="course_title">Artificial Intelligence: How To Build A Robot - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Learn how to program all the major systems of a robotic car from the leader of Google and Stanford&#39;s autonomous driving teams. This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.
+
+This course is offered as part of the Georgia Tech Masters in Computer Science. The updated course includes a final project, where you must chase a runaway robot that is trying to escape!</field>
+	<field name="course_body">Artificial Intelligence for Robotics
+Programming a Robotic CarCourse Summary
+
+Learn how to program all the major systems of a robotic car from the leader of Google and Stanford&#39;s autonomous driving teams. This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.
+
+This course is offered as part of the Georgia Tech Masters in Computer Science. The updated course includes a final project, where you must chase a runaway robot that is trying to escape!
+
+Why Take This Course?
+
+This course will teach you probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics.
+
+At the end of the course, you will leverage what you learned by solving the problem of a runaway robot that you must chase and hunt down!
+
+Prerequisites and Requirements
+
+Success in this course requires some programming experience and some mathematical fluency.
+
+Programming in this course is done in Python. We will use some basic object-oriented concepts to model robot motion and perception. If you don’t know Python but have experience with another language, you should be able to pick up the syntax fairly quickly. If you have no programming experience, you should consider taking Udacity’s Introduction to Computer Science course before attempting this one.
+
+The math used will be centered on probability and linear algebra. You don’t need to be an expert in either, but some familiarity with concepts in probability (e.g. probabilities must add to one, conditional probability, and Bayes’ rule) will be extremely helpful. It is possible to learn these concepts during the course, but it will take more work. Knowledge of linear algebra, while helpful, is not required.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Localization
+
+Localization
+Total Probability
+Uniform Distribution
+Probability After Sense
+Normalize Distribution
+Phit and Pmiss
+Sum of Probabilities
+Sense Function
+Exact Motion
+Move Function
+Bayes Rule
+Theorem of Total Probability
+Lesson 2: Kalman Filters
+
+Gaussian Intro
+Variance Comparison
+Maximize Gaussian
+Measurement and Motion
+Parameter Update
+New Mean Variance
+Gaussian Motion
+Kalman Filter Code
+Kalman Prediction
+Kalman Filter Design
+Kalman Matrices
+Lesson 3: Particle Filters
+
+Slate Space
+Belief Modality
+Particle Filters
+Using Robot Class
+Robot World
+Robot Particles
+Lesson 4: Search
+
+Motion Planning
+Compute Cost
+Optimal Path
+First Search Program
+Expansion Grid
+Dynamic Programming
+Computing Value
+Optimal Policy
+Lesson 5: PID Control
+
+Robot Motion
+Smoothing Algorithm
+Path Smoothing
+Zero Data Weight
+Pid Control
+Proportional Control
+Implement P Controller
+Oscillations
+Pd Controller
+Systematic Bias
+Pid Implementation
+Parameter Optimization
+Lesson 6: SLAM (Simultaneous Localization and Mapping)
+
+Localization
+Planning
+Segmented Ste
+Fun with Parameters
+SLAM
+Graph SLAM
+Implementing Constraints
+Adding Landmarks
+Matrix Modification
+Untouched Fields
+Landmark Position
+Confident Measurements
+Implementing SLAM
+Runaway Robot Final ProjectInstructors &amp; Partners
+
+
+Sebastian Thrun
+INSTRUCTOR
+Sebastian Thrun is a Research Professor of Computer Science at Stanford University, a Google Fellow, a member of the National Academy of Engineering and the German Academy of Sciences. Thrun is best known for his research in robotics and machine learning, specifically his work with self-driving cars.
+
+Georgia Institute of Technology</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs387</field>
+	<field name="course_title">Applied Cryptography and Encryption Class Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Cryptography is present in everyday life, from paying with a credit card to using the telephone. Learn all about making and breaking puzzles in computing.</field>
+	<field name="course_body">Applied Cryptography
+Science of SecretsCourse Summary
+
+Cryptography is present in everyday life, from paying with a credit card to using the telephone. Learn all about making and breaking puzzles in computing.
+
+Why Take This Course?
+
+Explore how secrets are written and shared, as well as what can go wrong when cryptography is misused or implemented badly.
+
+Prerequisites and Requirements
+
+This course assumes previous programming experience, comparable to what is covered by the Udacity CS101 course, as well as some understanding of probability and theory of computation and algorithm analysis.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 1: Perfect Ciphers
+
+What makes certain ciphers perfect, how the Lorenz Cipher was broken
+
+Lesson 2: Symmetric Encryption
+
+Sending messages when two people share a secret
+
+Lesson 3: Key Exchange
+
+Technics to establish a shared secret
+
+Lesson 4: Asymmetric Encryption
+
+Exchanging information using public key cryptosystems
+
+Lesson 5: Public Key Protocols
+
+Encrypted key exchange, certificates, secure commerce
+
+Lesson 6: Using Cryptographic Primitives
+
+How cryptography can be useful for anonymizing communication, voting, and digital cash
+
+Lesson 7: Secure Computation
+
+Computing without exposing dataInstructors &amp; Partners
+
+
+Dave Evans
+INSTRUCTOR
+David Evans is a Professor of Computer Science at the University of Virginia where he teaches computer science and leads research in computer security. He is the author of an introductory computer science textbook and has won Virginia&#39;s highest award for university faculty. He has PhD, SM, and SB degrees from MIT.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+</add>

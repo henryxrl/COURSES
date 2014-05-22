@@ -1,0 +1,622 @@
+<add>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs101</field>
+	<field name="course_title">Intro to Computer Science Class Online (CS101) - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">3 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">In this introductory course, you’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore fundamental computer science concepts, as you build your own search engine and social network.</field>
+	<field name="course_body">Intro to Computer Science
+Build a Search Engine &amp; a Social NetworkCourse Summary
+
+In this introductory course, you’ll learn and practice key computer science concepts by building your own versions of popular web applications. You’ll learn Python, a powerful, easy-to-learn, and widely used programming language, and you’ll explore fundamental computer science concepts, as you build your own search engine and social network.
+
+Why Take This Course?
+
+You’ll learn the programming language Python, and you’ll explore foundational concepts in computer science. Most importantly, you’ll start thinking like a software engineer by solving interesting problems (how to build a web crawler or a social network) using computer science.
+
+This course is a first step into the world of computer science, and whether you want to become a software engineer, or collaborate with software engineers, this course is for you. You’ll be prepared for intermediate-level computer science courses when you’ve mastered the concepts covered in this course.
+
+Build a Search Engine:
+
+Throughout this course, you’ll build a search engine by learning about and producing key search engine components including a crawler, an index and a page rank algorithm. As you build these pieces, you’ll be learning about and practicing computer science skills that will ready you for intermediate level computer science courses.
+
+Build a Social Network:
+
+At the end of the course we will give you a set of relationships (i.e. strings of phrases like “Dave likes Andy, Kathleen and Kristy”) and you will use your new computer science skills to organize these relationships into a social network. With your new social network, you can explore relationships and gain insight into how you fit into your own social networks.
+
+Prerequisites and Requirements
+
+There is no prior programming knowledge needed for this course. Beginners are welcome!
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Build a search engine throughout this course. Then, build a social network with your new skills!
+
+Syllabus
+
+Lesson 1: How to Get Started
+
+Your first program: Extracting a link
+
+Lesson 2: How to Repeat
+
+Procedures, decisions (if), loops; finding all of the links on a page
+
+Additional Lesson: How to Solve Problems
+
+Universal techniques for solving programming problems
+
+Lesson 3: How to Manage Data
+
+Lists; crawling the web
+
+Lesson 4: Responding to Queries
+
+Complex data structures; building a reverse index to do searches; networks
+
+Lesson 5: How Programs Run
+
+Reasoning about cost; hash tables (Dictionary)
+
+Lesson 6: How to Have Infinite Power
+
+Recursive definitions; ranking search results
+
+Lesson 7: Where to Go from Here
+
+Past, present, and future of computing; exam
+
+Final Project: Build a Social NetworkInstructors &amp; Partners
+
+
+Dave Evans
+INSTRUCTOR
+David Evans is a Professor of Computer Science at the University of Virginia where he teaches computer science and leads research in computer security. He is the author of an introductory computer science textbook and has won Virginia&#39;s highest award for university faculty. He has PhD, SM, and SB degrees from MIT.When does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud162</field>
+	<field name="course_title">Intro to Salesforce App Development - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">1 month</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Samantha Ready</field>
+	<field name="course_instructor">Mario Korf</field>
+	<field name="course_instructor_intro">Samantha Ready is a Developer Evangelist at salesforce.com. She has been with Salesforce for three years, and prior to evangelism was part of an internal development team building prototypes and apps on the platform. She graduated from UC Santa Cruz with a degree in computer engineering and a concentration in robotics and embedded systems, but as of late has focused on front end and mobile development. When she’s not sharing her love for Salesforce, you can find Sam scuba diving, scaling mountains, or searching for the world’s best hot sauce while listening to good music.</field>
+	<field name="course_instructor_intro">Mario Korf is a Developer Programs Manager at Salesforce.com, who specializes in designing learning paths and documentation for new developers. During his six years at Salesforce, he has won several technical writing awards on subjects from application lifecycle management to mobile development. He created the popular Workbook series of tutorials, and is passionate about new and innovative ways for learning. Mario&#39;s excited to help with this project because it provides an alternative to traditional instructor-lead training, with a social, self-paced, and enjoyable experience out of the box. In his spare time, Mario is racing, building, or chasing something. He’s typically on or under the water.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
+
+By the end of this short course, you&#39;ll use the skills you&#39;ve developed to conceptualize and create your own app. To get you there, your instructors Samantha and Andy will first help you build an app that could be used to manage logistics at a music festival. Though this is a very specific app use case, the skills you learn will be applicable to just about any business app you’d want to develop.</field>
+	<field name="course_body">Course Summary
+
+This class teaches you how to build powerful web and mobile apps and host them in the cloud, without writing a line of code.
+
+By the end of this short course, you&#39;ll use the skills you&#39;ve developed to conceptualize and create your own app. To get you there, your instructors Samantha and Andy will first help you build an app that could be used to manage logistics at a music festival. Though this is a very specific app use case, the skills you learn will be applicable to just about any business app you’d want to develop.
+
+Why Take This Course?
+
+After completing this course you will have built your own web and mobile app. You will become familiar with the concept of abstraction and how to think about concrete problems in their most general sense -- a concept critical for all developers. In addition, you will learn how to map out a data model, create data visualizations, and automate manual processes after analyzing your abstractions.
+
+What kind of apps can you build? Well, Facebook uses a Salesforce app to manage their entire hire-to-retire process: collecting resumes, sharing feedback, making job offers, and developing talent. And the Obama 2012 campaign built apps to mobilize their vast volunteer network and visualize the pulse of the nation in real-time. What will you build?
+
+Prerequisites and Requirements
+
+Good news! You don&#39;t need any programming experience and you don&#39;t need to know anything about Salesforce. You&#39;ll learn the ins and outs of point-and-click development, so all you need now is an interest in building an app.
+
+One thing you should know: the skills you learn in this course are in high demand and will help further your career.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Design and build your own mobile-friendly Salesforce app.
+
+Syllabus
+
+Overview
+
+In this class you’ll learn the basics of building apps with Force.com, a part of Salesforce Platform. These apps are typically business apps: they solve organizational and logistical problems. You probably wouldn’t use Salesforce to build a computer game (though you could!).
+
+There are two ways to build apps in Force.com: with or without code. This class will only cover the non-coding, point-and-click app building interface. But don’t be fooled! Building powerful apps does not require writing code.
+
+This class contains an introductory lesson, five primary lessons where you&#39;ll be building and learning (each of which has an accompanying problem set to practice your skills), and a final project where you&#39;ll put everything together.
+
+Lesson 0: What is Salesforce (15 mins)
+
+What is Salesforce Platform? What does it do? Why should I learn about it? What kind of jobs can I get after I learn how to use it?
+
+In this lesson, you’ll meet the instructors, get to know the class, and learn a bit about Salesforce in general.
+
+Lesson 1: Creating your First App (90 minutes)
+
+In this lesson you’ll get acquainted with Force.com and actually build the beginnings of your first app. You’ll get some experience taking a big problem (in this case, managing a music festival), breaking it into smaller parts, and representing those parts in Salesforce. As you do this, you’ll learn about the basic components of a Salesforce app and add some simple (but powerful) functionality to your app. More concretely, you’ll learn about:
+
+Salesforce Data: Salesforce represents data as objects, fields, and records. You’ll learn what these terms mean and build them into your app.
+Relationships: When the pieces of your app start communicating, interesting things can happen. In this lesson you’ll learn the basics of Salesforce relationship fields.
+Validation Rules: If you’ve ever incorrectly entered your credit card number into a website, you already know about validation rules. In this lesson, you’ll learn how to build them into your app.
+Formulas and Summaries: These tools let you easily keep track of quantifiable things like money spent, customers contacted, or tickets sold. In this lesson you’ll learn how to build these automated calculations into your app.
+Lesson 2: Building out your Data Model (90 mins)
+
+Behind every powerful business app is a well-planned data model (also known as a schema). In this lesson you’ll learn how to decompose a complex problem into its component pieces and then connect those pieces together with the appropriate relationship fields. The data model you build will serve as the schematic skeleton onto which you’ll build dynamic functionality in later lessons. The specific topics covered are:
+
+One-to-Many Relationships: These relationships let the pieces of your app talk to each other. In this lesson you’ll learn how and when (and why) to use master-detail and lookup relationships in the apps you build.
+Many-to-Many Relationships: You’ll learn how to use a junction object to add flexibility into your data model.
+Customizing the User Interface: Good apps should be easy to use! In this lesson you’ll learn how to configure the layout of your app to make sure the UI is simple and intuitive.
+Schema Builder: There are many ways to get things done in Salesforce. In this lesson you’ll start using the schema builder to understand how your app works.
+Data Loading: This is a convenient way to get lots of data onto your app at once.
+Lesson 3: Visualizing your Data (45 mins)
+
+No matter what kind of app you’re building, you’ve probably got some data that you want other people in your organization to understand quickly and easily. In this lesson you’ll learn how quickly communicate information with real-time data visualizations. Specifically, you’ll learn how to make:
+
+Reports: These let you gather related information into one place. These let you gather data according to specific criteria and display it in neat rows and columns.
+Charts: These let you graphically summarize the information in a report.
+Dashboards: Different people want access to different information. A dashboard is a collection of charts that give specific people in your organization exactly the information that they need in real-time.
+Views: Data is good, but sometimes you have too much. Views let you selectively and quickly display only the data you care about.
+Lesson 4: Adding Automation (45 mins)
+
+In this lesson you’ll think about how to use your app to automate manual tasks. You’ll learn how to use two important Salesforce tools:
+
+Workflows: There are situations where a series of steps need to happen in sequence: first do this, then do that. Workflows let you automate processes like these, such as sending an email, assigning a task, or updating a field.
+Approval Processes: You don’t want every job to be completely automated. Sometimes you need someone to step in and say “this looks good.” Approval processes add a human element to your automated tasks.
+Lesson 5: Make it Social. Make it Mobile. (45 mins)
+
+This is it. With a few clicks of the mouse you’ll make your app social and mobile. The tools you’ll use are:
+
+Chatter: This will let your users collaborate on the projects and records they work on together.
+Salesforce1: That web app you’ve been building this whole time? It’s actually a mobile app too. You’ll even learn how to quickly customize your mobile interface and add functionality for mobile productivity.
+Final Project: Build your own App (2-4 hours)
+
+By the time you get here, you will have already built a music festival management app. Now it’s time to take your own idea and turn it into a functional web and mobile app.Instructors &amp; Partners
+
+
+Samantha Ready
+INSTRUCTOR
+Samantha Ready is a Developer Evangelist at salesforce.com. She has been with Salesforce for three years, and prior to evangelism was part of an internal development team building prototypes and apps on the platform. She graduated from UC Santa Cruz with a degree in computer engineering and a concentration in robotics and embedded systems, but as of late has focused on front end and mobile development. When she’s not sharing her love for Salesforce, you can find Sam scuba diving, scaling mountains, or searching for the world’s best hot sauce while listening to good music.
+
+
+Mario Korf
+INSTRUCTOR
+Mario Korf is a Developer Programs Manager at Salesforce.com, who specializes in designing learning paths and documentation for new developers. During his six years at Salesforce, he has won several technical writing awards on subjects from application lifecycle management to mobile development. He created the popular Workbook series of tutorials, and is passionate about new and innovative ways for learning. Mario&#39;s excited to help with this project because it provides an alternative to traditional instructor-lead training, with a social, self-paced, and enjoyable experience out of the box. In his spare time, Mario is racing, building, or chasing something. He’s typically on or under the water.
+
+
+Andy Brown
+INSTRUCTOR
+After graduating from MIT with a degree in physics in 2009, Andy spent two years teaching, traveling around the world, and biking across the United States. When he heard about Udacity, he abandoned his vagabond ways to share his passion for learning and teaching with the world.
+
+Salesforce</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud359</field>
+	<field name="course_title">Intro to Data Science - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Dave Holtz</field>
+	<field name="course_instructor">Cheng-Han Lee</field>
+	<field name="course_instructor_intro">Dave Holtz is currently a data scientist at Airbnb. Before Airbnb, he was formerly a data science engineer at Yub, the world&#39;s first online-to-offline affiliate network, and he also worked as a product manager and data scientist at TrialPay. Dave holds an M.A. in physics and astronomy from the Johns Hopkins University and a B.A. in physics from Princeton University. In addition to data science, Dave is passionate about cosmology, smart cities, music, theater, and improv comedy.</field>
+	<field name="course_instructor_intro">Cheng-Han worked as a program manager at Microsoft prior to Udacity, and he studied at the University of Texas at Austin and University of California at San Diego for his degrees in computer science.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">The Introduction to Data Science class will survey the foundational topics in data science, namely:
+
+Data Manipulation
+Data Analysis with Statistics and Machine Learning
+Data Communication with Information Visualization
+Data at Scale -- Working with Big Data
+
+The class will focus on breadth and present the topics briefly instead of focusing on a single topic in depth. This will give you the opportunity to sample and apply the basic techniques of data science.</field>
+	<field name="course_body">Course Summary
+
+The Introduction to Data Science class will survey the foundational topics in data science, namely:
+
+Data Manipulation
+Data Analysis with Statistics and Machine Learning
+Data Communication with Information Visualization
+Data at Scale -- Working with Big Data
+
+The class will focus on breadth and present the topics briefly instead of focusing on a single topic in depth. This will give you the opportunity to sample and apply the basic techniques of data science.
+
+Why Take This Course?
+
+You will have an opportunity to work through a data science project end to end, from analyzing a dataset to visualizing and communicating your data analysis.
+
+Through working on the class project, you will be exposed to and understand the skills that are needed to become a data scientist yourself.
+
+Prerequisites and Requirements
+
+The ideal students for this class are prepared individuals who have:
+
+Strong interest in data science
+Background in intro level statistics
+Python programming experience
+Or understanding of programming concepts such as variables, functions, loops, and basic python data structures like lists and dictionaries
+
+If you need to brush up on your programming, we highly recommend Introduction to Computer Science: Building a Search Engine. If you need a refresher on statistics, enroll in Statistics: The Science of Decisions. Both classes are on Udacity!
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Use statistical analysis, machine learning, and MapReduce to discover interesting patterns and trends about the New York Subway.
+
+Syllabus
+
+Lesson 1: Introduction to Data Science
+
+Introduction to Data Science
+What is a Data Scientist
+Pi-Chaun (Data Scientist @ Google): What is Data Science?
+Gabor (Data Scientist @ Twitter): What is Data Science?
+Problems Solved by Data Science
+Pandas
+Dataframes
+Create a New Dataframe
+Lesson 2: Data Wrangling
+
+What is Data Wrangling?
+Acquiring Data
+Common Data Formats
+What are Relational Databases?
+Aadhaar Data
+Aadhaar Data and Relational Databases
+Introduction to Databases Schemas
+API’s
+Data in JSON Format
+How to Access an API efficiently
+Missing Values
+Easy Imputation
+Impute using Linear Regression
+Tip of the Imputation Iceberg
+Lesson 3: Data Analysis
+
+Statistical Rigor
+Kurt (Data Scientist @ Twitter) - Why is Stats Useful?
+Introduction to Normal Distribution
+T Test
+Welch T Test
+Non-Parametric Tests
+Non-Normal Data
+Stats vs. Machine Learning
+Different Types of Machine Learning
+Prediction with Regression
+Cost Function
+How to Minimize Cost Function
+Coefficients of Determination
+Lesson 4: Data Visualization
+
+Effective Information Visualization
+Napoleon&#39;s March on Russia
+Don (Principal Data Scientist @ AT&amp;T): Communicating Findings
+Rishiraj (Principal Data Scientist @ AT&amp;T): Communicating Findings Well
+Visual Encodings
+Perception of Visual Cues
+Plotting in Python
+Data Scales
+Visualizing Time Series Data
+Lesson 5: MapReduce
+
+Big Data and MapReduce
+Basics of MapReduce
+Mapper
+Reducer
+MapReduce with Aadhaar Data
+MapReduce Ecosystem
+Joshua (Data Scientist @ Twitter): MapReduce Tools, Pig
+MapReduce with Subway DataInstructors &amp; Partners
+
+
+Dave Holtz
+INSTRUCTOR
+Dave Holtz is currently a data scientist at Airbnb. Before Airbnb, he was formerly a data science engineer at Yub, the world&#39;s first online-to-offline affiliate network, and he also worked as a product manager and data scientist at TrialPay. Dave holds an M.A. in physics and astronomy from the Johns Hopkins University and a B.A. in physics from Princeton University. In addition to data science, Dave is passionate about cosmology, smart cities, music, theater, and improv comedy.
+
+
+Cheng-Han Lee
+COURSE DEVELOPER
+Cheng-Han worked as a program manager at Microsoft prior to Udacity, and he studied at the University of Texas at Austin and University of California at San Diego for his degrees in computer science.
+
+Outside of work, Cheng-Han is a world traveler. He has lived in Taiwan, Shanghai, Charleston (SC), Dallas, Austin, San Diego, Seattle, and now the Bay Area. In addition to traveling, he likes to find new parks to explore, new venues to visit, and new restaurants to try.</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud651</field>
+	<field name="course_title">Exploratory Data Analysis Using R - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Dean Eckles</field>
+	<field name="course_instructor">Moira Burke</field>
+	<field name="course_instructor">Chris Saden</field>
+	<field name="course_instructor">Solomon Messing</field>
+	<field name="course_instructor_intro">Dean Eckles is a social scientist, statistician, and member of the Data Science team at Facebook. His primary focus is how interactive technologies affect human behavior by mediating, amplifying, and directing social influence — and the statistical methods to study these processes. Dean holds degrees from Stanford University in philosophy (BA), cognitive science (BS, MS), and statistics (MS), and communication (PhD).</field>
+	<field name="course_instructor_intro">Moira Burke is a Data Scientist at Facebook, where she combines her social psychology and data munging chops to understand how people perceive their audience online and how various uses of the site improve psychological well-being. She received her Ph.D. in Human-Computer Interaction from Carnegie Mellon University, and a B.A. in Computer Science from the University of Oregon. When not coaxing data into pretty plots, she sings a cappella. Badly.</field>
+	<field name="course_instructor_intro">After graduating from Emory in 2008, Chris dabbled in college admissions for a year, which led him to teach high school mathematics in Oakland. He radiates a love for learning and believes everyone deserves a great education. In 2012, Chris joined Udacity to reach thousands of students and share his joy of problem solving with the world.</field>
+	<field name="course_instructor_intro">Solomon Messing is a political scientist with Facebook&#39;s Data Science Team. His research and teaching focus on political advertising and campaigns, social influence, and design and analysis of experiments. His work has appeared in the American Political Science Review, Public Opinion Quarterly, and Communication Research. Solomon completed his Ph.D. in political communication and M.S. in Statistics at Stanford.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Exploratory Data Analysis (EDA) is an approach to data analysis for summarizing and visualizing the important characteristics of a data set. Promoted by John Tukey, EDA focuses on exploring data to understand the data’s underlying structure and variables, to develop intuition about the data set, consider how that data set came into existence, and decide how it can be investigated with more formal statistical methods.
+
+If you&#39;re interested in supplemental reading material for the course check out the Exploratory Data Analysis book. (Not Required)</field>
+	<field name="course_body">What Will I Learn?
+
+Projects
+
+Jump into a new dataset. Explore, create plots, and summarize the fascinating things you find.
+
+Syllabus
+
+Lesson 1: What is EDA? (1 hour)
+
+We&#39;ll start by learn about what exploratory data analysis (EDA) is and why it is important. You&#39;ll meet the amazing instructors for the course and find out about the course structure and final project.
+
+Lesson 2: R Basics (3 hours)
+
+EDA, which comes before formal hypothesis testing and modeling, makes use of visual methods to analyze and summarize data sets. R will be our tool for generating those visuals and conducting analyses. In this lesson, we will install RStudio and packages, learn the layout and basic commands of R, practice writing basic R scripts, and inspect data sets.
+
+Lesson 3: Explore One Variable (4 hours)
+
+We perform EDA to understand the distribution of a variable and to check for anomalies and outliers. Learn how to quantify and visualize individual variables within a data set as we begin to make sense of a pseudo-data set of Facebook users. While the data set does not contain real user data, it does contain a wealth of information. Through the lesson, we will create histograms and boxplots, transform variables, and examine tradeoffs in visualizations.
+
+Problem Set 3 (2 hours)
+
+Lesson 4: Explore Two Variables (4 hours)
+
+EDA allows us to identify the most important variables and relationships within a data set before building predictive models. In this lesson, we will learn techniques for exploring the relationship between any two variables in a data set. We&#39;ll create scatter plots, calculate correlations, and investigate conditional means.
+
+Problem Set 4 (2 hours)
+
+Lesson 5: Explore Many Variables (4 hours)
+
+Data sets can be complex. In this lesson, we will learn powerful methods and visualizations for examining relationships among multiple variables. We&#39;ll learn how to reshape data frames and how to use aesthetics like color and shape to uncover more information. Extending our knowledge of previous plots, we&#39;ll continue to build intuition around the Facebook data set and explore some new data sets as well.
+
+Problem Set 5 (2 hours)
+
+Lesson 6: Diamonds and Price Predictions (2 hours)
+
+Investigate the diamonds data set alongside Facebook Data Scientist, Solomon Messing. He&#39;ll recap many of the strategies covered in the course and show how predictive modeling can allow us to determine a good price for a diamond. As a final project, you will create your own exploratory data analysis on a data set of your choice.
+
+Final Project (10+ hours)
+
+You&#39;ve explored simulated Facebook user data and the diamonds data set. Now, it&#39;s your turn to conduct your own exploratory data analysis. Choose one data set to explore (one provided by Udacity or your own) and create a RMD file that uncovers the patterns, anomalies and relationships of the data set.Instructors &amp; Partners
+
+
+Dean Eckles
+INSTRUCTOR
+Dean Eckles is a social scientist, statistician, and member of the Data Science team at Facebook. His primary focus is how interactive technologies affect human behavior by mediating, amplifying, and directing social influence — and the statistical methods to study these processes. Dean holds degrees from Stanford University in philosophy (BA), cognitive science (BS, MS), and statistics (MS), and communication (PhD).
+
+
+Moira Burke
+INSTRUCTOR
+Moira Burke is a Data Scientist at Facebook, where she combines her social psychology and data munging chops to understand how people perceive their audience online and how various uses of the site improve psychological well-being. She received her Ph.D. in Human-Computer Interaction from Carnegie Mellon University, and a B.A. in Computer Science from the University of Oregon. When not coaxing data into pretty plots, she sings a cappella. Badly.
+
+
+Chris Saden
+INSTRUCTOR
+After graduating from Emory in 2008, Chris dabbled in college admissions for a year, which led him to teach high school mathematics in Oakland. He radiates a love for learning and believes everyone deserves a great education. In 2012, Chris joined Udacity to reach thousands of students and share his joy of problem solving with the world.
+
+
+Solomon Messing
+INSTRUCTOR
+Solomon Messing is a political scientist with Facebook&#39;s Data Science Team. His research and teaching focus on political advertising and campaigns, social influence, and design and analysis of experiments. His work has appeared in the American Political Science Review, Public Opinion Quarterly, and Communication Research. Solomon completed his Ph.D. in political communication and M.S. in Statistics at Stanford.
+
+Facebook</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/ud617</field>
+	<field name="course_title">Beginner Hadoop and MapReduce Course Online - Udacity</field>
+	<field name="course_price">$150/month</field>
+	<field name="course_length">1 month</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Sarah Sproehnle</field>
+	<field name="course_instructor">Ian Wrigley</field>
+	<field name="course_instructor_intro">Sarah Sproehnle is the Vice President of Educational Services at Cloudera, a company that helps develop, manage and support Apache Hadoop. While she is a geek at heart, her passion is helping people learn complex technology. In addition to teaching people how to use Hadoop, she&#39;s taught database administration, various programming languages, and system administration.</field>
+	<field name="course_instructor_intro">Ian Wrigley is currently the Senior Curriculum Manager at Cloudera, responsible for the team which creates all the company&#39;s Hadoop training materials. He&#39;s been a tech journalist, an instructor, and a course author for over 20 years, during which time he&#39;s taught everything from C programming to copywriting for the Web. He describes his job as &quot;teaching geeks to be geekier&quot;.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing. Learn the fundamental principles behind it, and how you can use its power to make sense of your Big Data.</field>
+	<field name="course_body">Course Summary
+
+The Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing. Learn the fundamental principles behind it, and how you can use its power to make sense of your Big Data.
+
+Why Take This Course?
+
+How Hadoop fits into the world (recognize the problems it solves)
+Understand the concepts of HDFS and MapReduce (find out how it solves the problems)
+Write MapReduce programs (see how we solve the problems)
+Practice solving problems on your own
+Prerequisites and Requirements
+
+Lesson 1 does not have technical prerequisites and is a good overview of Hadoop and MapReduce for managers.
+
+To get the most out of the class you however need basic programming skills in Python, on a level provided by introductory courses, like our Introduction to Computer Science.
+
+To learn more about Hadoop, you can also check out the book Hadoop: The Definitive Guide.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Projects
+
+Use MapReduce to reveal surprising trends in Udacity forum data.
+
+Syllabus
+
+Lesson 1
+
+What is &#39;big data&#39;? The dimensions of Big Data. Scaling problems. HDFS and Hadoop ecosystem.
+
+Lesson 2
+
+The Basics of HDFS, MapReduce and Hadoop cluster.
+
+Lesson 3
+
+Writing a MapReduce program to answer questions about data.
+
+Final Project
+
+Answering questions about big sales data and analyzing large website logs.Instructors &amp; Partners
+
+
+Sarah Sproehnle
+INSTRUCTOR
+Sarah Sproehnle is the Vice President of Educational Services at Cloudera, a company that helps develop, manage and support Apache Hadoop. While she is a geek at heart, her passion is helping people learn complex technology. In addition to teaching people how to use Hadoop, she&#39;s taught database administration, various programming languages, and system administration.
+
+
+Ian Wrigley
+INSTRUCTOR
+Ian Wrigley is currently the Senior Curriculum Manager at Cloudera, responsible for the team which creates all the company&#39;s Hadoop training materials. He&#39;s been a tech journalist, an instructor, and a course author for over 20 years, during which time he&#39;s taught everything from C programming to copywriting for the Web. He describes his job as &quot;teaching geeks to be geekier&quot;.
+
+
+Gundega Dekena
+COURSE DEVELOPER
+Once upon a time Gundega was a Udacity student. In a way she still is, because she is learning new things from instructors she works with and her Udacity coworkers every day.
+
+If you occasionally want to read fun news about robotics, science and games, follow her on G+ - https://plus.google.com/+GundegaDekena.
+
+Cloudera</field>
+	</doc>
+<doc>
+	<field name="course_url">https://www.udacity.com/course/cs255</field>
+	<field name="course_title">Learn HTML5 - Game Development Course Online - Udacity</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">2 months</field>
+	<field name="course_workload">6hr/wk</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Colt McAnlis</field>
+	<field name="course_instructor">Peter Lubbers</field>
+	<field name="course_instructor_intro">Colt McAnlis is a Developer Advocate at Google focusing on Chrome Games and Native Client; Before that, he was a systems &amp; graphics programmer in the games industry working at Blizzard, Microsoft (Ensemble), and Petroglyph. He also spent 4 years as an Adjunct Professor at SMU Guildhall&#39;s school for game development, where he taught classes on math, physics, graphics, and concurrent programming. When he&#39;s not working with partners, Colt spends his time preparing for an invasion of giant ants from outer space.</field>
+	<field name="course_instructor_intro">Peter Lubbers is a Program Manager at Google in the Chrome Developer Relations team and lives and breathes HTML5. He is the co-author of Pro HTML5 Programming (Apress) and the founder of the San Francisco HTML5 User Group, the largest HTML5 User Group in the world. A native of the Netherlands, Peter served as a Special Forces commando in the Royal Dutch Green Berets. In his spare time Peter likes jumping out of planes, bungee-jumping, and running ultra-marathons.</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">This course will walk you through the major components of building GRITS, an HTML5 game. We&#39;ll talk about how to take standard game development techniques, and use them to create high performance HTML5 applications.</field>
+	<field name="course_body">Course Summary
+
+This course will walk you through the major components of building GRITS, an HTML5 game. We&#39;ll talk about how to take standard game development techniques, and use them to create high performance HTML5 applications.
+
+Why Take This Course?
+
+At the end of this course, you&#39;ll understand how to develop an HTML5 game. You will gain familiarity with HTML5 features such as 2D canvas and techniques for improving performance.
+
+Prerequisites and Requirements
+
+Knowledge of HTML, Javascript, and how the web works is necessary for this course. There is an optional lesson on the specific parts of Javascript and the DOM that you&#39;ll need for this class as a refresher, but this is not an introductory course on Javascript.
+
+See the Technology Requirements for using UdacityWhat Will I Learn?
+
+Syllabus
+
+Lesson 0
+
+Optional HTML/Javascript crash course
+
+Lesson 1
+
+Introduction to Canvas rendering
+
+Lesson 2
+
+Atlases
+
+Lesson 3
+
+Map rendering
+
+Lesson 4
+
+Basic Input, handling events
+
+Lesson 5
+
+The entity hierarchy
+
+Lesson 6
+
+Box2D, and using external libraries
+
+Lesson 7
+
+Adding sound
+
+Lesson 8
+
+Asynchronous LoadingInstructors &amp; Partners
+
+
+Colt McAnlis
+INSTRUCTOR
+Colt McAnlis is a Developer Advocate at Google focusing on Chrome Games and Native Client; Before that, he was a systems &amp; graphics programmer in the games industry working at Blizzard, Microsoft (Ensemble), and Petroglyph. He also spent 4 years as an Adjunct Professor at SMU Guildhall&#39;s school for game development, where he taught classes on math, physics, graphics, and concurrent programming. When he&#39;s not working with partners, Colt spends his time preparing for an invasion of giant ants from outer space.
+
+
+Peter Lubbers
+INSTRUCTOR
+Peter Lubbers is a Program Manager at Google in the Chrome Developer Relations team and lives and breathes HTML5. He is the co-author of Pro HTML5 Programming (Apress) and the founder of the San Francisco HTML5 User Group, the largest HTML5 User Group in the world. A native of the Netherlands, Peter served as a Special Forces commando in the Royal Dutch Green Berets. In his spare time Peter likes jumping out of planes, bungee-jumping, and running ultra-marathons.
+
+
+Sean Bennett
+COURSE DEVELOPER
+Sean Bennett is a Course Architect at Udacity and is passionate about using the web to improve the quality of education available worldwide. Sean&#39;s background is in web programming, and he likes to dabble in functional web programming. When he&#39;s not working to improve education, Sean likes running, hiking, and preparing for the inevitable zombie apocalypse.
+
+GoogleWhen does the course begin?
+
+This class is self paced. You can begin whenever you like and then follow your own pace. It’s a good idea to set goals for yourself to make sure you stick with the course.
+
+How long will the course be available?
+
+This class will always be available!
+
+How do I know if this course is for me?
+
+Take a look at the “Class Summary,” “What Should I Know,” and “What Will I Learn” sections above. If you want to know more, just enroll in the course and start exploring.
+
+Can I skip individual videos? What about entire lessons?
+
+Yes! The point is for you to learn what YOU need (or want) to learn. If you already know something, feel free to skip ahead. If you ever find that you’re confused, you can always go back and watch something that you skipped.
+
+How much does this cost?
+
+It’s completely free! If you’re feeling generous, we would love to have you contribute your thoughts, questions, and answers to the course discussion forum.
+
+What are the rules on collaboration?
+
+Collaboration is a great way to learn. You should do it! The key is to use collaboration as a way to enhance learning, not as a way of sharing answers without understanding them.
+
+Why are there so many questions?
+
+Udacity classes are a little different from traditional courses. We intersperse our video segments with interactive questions. There are many reasons for including these questions: to get you thinking, to check your understanding, for fun, etc... But really, they are there to help you learn. They are NOT there to evaluate your intelligence, so try not to let them stress you out.
+
+What should I do while I’m watching the videos?
+
+Learn actively! You will retain more of what you learn if you take notes, draw diagrams, make notecards, and actively try to make sense of the material.</field>
+	</doc>
+</add>

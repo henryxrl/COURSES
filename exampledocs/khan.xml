@@ -1,0 +1,289 @@
+<add>
+<doc>
+	<field name="course_url">https://www.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme</field>
+	<field name="course_title">Accounting and financial statements | Finance and capital markets | Khan Academy</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">Undefined</field>
+	<field name="course_workload">Undefined</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro"></field>
+	<field name="course_body">FINANCE AND CAPITAL MARKETS
+Accounting and financial statements
+ SUBSCRIBE
+Cash versus accrual accounting
+Just keeping track of cash that goes in and out of a business doesn&#39;t always reflect what&#39;s going on. This tutorial compares cash and accrual accounting. Very valuable if you ever plan on starting or investing in any type of business (you might also discover a nascent passion for accounting)!
+Cash accounting
+Accrual basis of accounting
+Comparing accrual and cash accounting
+Three core financial statements
+Corporations use three financial statements to report what&#39;s going on: balance sheets, cash flow statements and income statements. They can be derived from each other and each give a valuable lens on the operations and condition of a business. After you know the basics of accrual accounting (available in another tutorial), this tutorial will give you tools you need to responsibly understand any business.
+Balance sheet and income statement relationship
+Basic cash flow statement
+Doing the example with accounts payable growing
+Fair value accounting
+Depreciation and amortization
+How do you account for things that get &quot;used up&quot; or a cost that should be spread over time. This tutorial has your answer. Depreciation and amortization might sound fancy, but you&#39;ll hopefully find them to be quite understandable.
+Expensing a truck leads to inconsistent performance
+Depreciating the truck
+Depreciation in cash flow
+Amortization and depreciation</field>
+</doc>
+<doc>
+	<field name="course_url">https://www.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial</field>
+	<field name="course_title">Inflation | Finance and capital markets | Khan Academy</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">Undefined</field>
+	<field name="course_workload">Undefined</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro"></field>
+	<field name="course_body">FINANCE AND CAPITAL MARKETS
+Inflation
+ SUBSCRIBE
+Inflation basics
+$1 went a lot further in 1900 than today (you could probably buy a good meal for the family for $1 back then). Why? And how do we measure how much more expensive things have gotten (i.e., inflation)?
+Inflation overview
+What is inflation
+Inflation data
+CPI index
+Inflation scenarios
+You know about inflation, but now want to look at how thing might play out in different scenarios. This tutorial focuses on when inflation is &quot;acceptable&quot; and when it isn&#39;t (and the causes and repercussions).
+Moderate inflation in a good economy
+Stagflation
+Hyperinflation
+Real and nominal return
+If the value of money is constantly changing, can we compare investment return in the future or past to that earned in the present? This tutorial focuses on how to do this (another good tutorial to watch is the one on &quot;present value&quot;).
+Real and nominal return
+Calculating real return in last year dollars
+Relation between nominal and real returns and inflation
+Capacity utilization and inflation
+This tutorial starts with a very &quot;micro&quot; view of when firms decide to raise (or lower prices). It then jumps back to the macro view to discuss how capacity utilization can impact prices.
+Economics of a cupcake factory
+Cupcake economics 2
+Cupcake economics 3
+Inflation, deflation, and capacity utilization
+Inflation, deflation, and capacity utilization 2
+Inflation and deflation 3: Obama stimulus plan
+Deflation
+Prices don&#39;t always go up. They often go down. This might seem like a good thing, but it could be disastrous for a modern economy is it goes too far. This tutorial explains what deflation is, how it happens and what the effects of it might be.
+Deflation
+Velocity of money rather than quantity driving prices
+Deflation despite increases in money supply
+Deflationary spiral</field>
+</doc>
+<doc>
+	<field name="course_url">https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial</field>
+	<field name="course_title">Investment vehicles, insurance and retirement | Finance and capital markets | Khan Academy</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">Undefined</field>
+	<field name="course_workload">Undefined</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro"></field>
+	<field name="course_body">FINANCE AND CAPITAL MARKETS
+Investment vehicles, insurance and retirement
+ SUBSCRIBE
+Mutual funds and ETFs
+If we&#39;re not in the mood to research and pick our own stocks, mutual funds and/or ETFs might be a good option. This tutorial explains what they are and how they are different.
+Open-ended mutual fund (part 1)
+Open-end mutual fund redemptions
+Closed-end mutual funds
+Exchange traded funds (ETFs)
+Open-ended mutual funds
+Ponzi schemes
+Retirement accounts: IRAs and 401ks
+The government apparently wants us to save for retirement (not always obvious because it also wants us to spend as much as possible to pump the economy going into the next election cycle). To encourage this, it has created some ways to save that avoid or defer taxes: IRAs and 401ks.
+Traditional IRAs
+Roth IRAs
+401(k)s
+Life insurance
+It is a bit of a downer to think about, but we are all going to die. Do we care what happens to our loved ones (if they really are &quot;loved&quot; than the answer is obvious). This tutorial walks us through the options to insure our families against losing us. The reason why we stuck it in the &quot;investment vehicles&quot; topic is because it can also be an investment that we can use before we die.
+Term and whole life insurance policies
+Term and whole life insurance policies 2
+Term life insurance and death probability
+Hedge funds
+Hedge funds have absolutely nothing to do with shrubbery. Their name comes from the fact that early hedge funds (and some current ones) tried to &quot;hedge&quot; their exposure to the market (so they could, in theory, do well in an &quot;up&quot; or &quot;down&quot; market as long as they were good at picking the good companies). Today, hedge funds represent a huge class investment funds. They are far less regulated than, say, mutual funds. In exchange for this, they aren&#39;t allowed to market or take investments from &quot;unsophisticated&quot; investors. Some use their flexibility to mitigate risk, other use it to amplify it.
+Hedge funds intro
+Hedge fund structure and fees
+Are hedge funds bad?
+Hedge funds, venture capital, and private equity
+Hedge fund strategies: Long short 1
+Hedge fund strategies: Long short 2
+Hedge fund strategies: Merger arbitrage 1</field>
+</doc>
+<doc>
+	<field name="course_url">https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds</field>
+	<field name="course_title">Stocks and bonds | Finance and capital markets | Khan Academy</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">Undefined</field>
+	<field name="course_workload">Undefined</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro"></field>
+	<field name="course_body">FINANCE AND CAPITAL MARKETS
+Stocks and bonds
+ SUBSCRIBE
+Introduction to stocks
+Many people own stocks, but, unfortunately, most of them don&#39;t really understand what they own. This tutorial will keep you from being one of those people (not keep you from owning stock, but keep you from being ignorant about your investments).
+What it means to buy a company&#39;s stock
+Bonds vs. stocks
+Shorting stock
+Can you sell something that you borrowed from someone else? Why, yes, you can and it is called &quot;shorting&quot;. Why would you do this? Well, you can now make money if the price goes down. Is this bad? This tutorial has your answers.
+Basic shorting
+Shorting stock
+Shorting stock 2
+Is short selling bad?
+Understanding company statements and capital structure
+If you understand what a stock is (also a good idea to look at the topic on accounting and financial statements), then you&#39;re ready to dig in a bit on a company&#39;s actual financials. This tutorial does this to help you understand what the price of a company really is.
+Gross and operating profit
+Basic capital structure differences
+Market capitalization
+Market value of assets
+Corporate metrics and valuation
+Life is full of people who will try to convince you that something is a good or bad idea by spouting technical jargon. Most of them have no idea what they are talking about. Don&#39;t be one of those people or their victims when it comes to stocks. From P/E rations to EV/EBITDA, we&#39;ve got your back!
+Price and market capitalization
+Introduction to the income statement
+Earnings and EPS
+Introduction to the price-to-earnings ratio
+P/E discussion
+ROA discussion 1
+ROA discussion 2
+Depreciation
+Amortization
+P/E conundrum
+Enterprise value
+EBITDA
+Life of a company--from birth to death
+This is an old set of videos, but if you put up with Sal&#39;s messy handwriting (it has since improved) and spotty sound, there is a lot to be learned here. In particular, this tutorial walks through starting, financing and taking public a company (and even talks about what happens if it has trouble paying its debts).
+Raising money for a startup
+Getting a seed round from a VC
+Going back to the till: Series B
+An IPO
+More on IPOs
+Equity vs. debt
+Bonds vs. stocks
+Chapter 7: Bankruptcy liquidation
+Chapter 11: Bankruptcy restructuring
+Dilution
+When companies issue new shares, many people consider this a share &quot;dilution&quot;--implying that the value of each share has been &quot;watered down&quot; a bit. This tutorial walks through the mechanics and why--assuming management isn&#39;t doing something stupid--the shares might not be diluted at all.
+Stock dilution
+Mergers and acquisitions
+Companies often buy or merge with other companies using shares (which is sometimes less intuitive than when they use cash). This tutorial walks through the mechanics of how this happens and details what is likely to happen in the public markets because of the transaction (including opportunities for arbitrage).
+Acquisitions with shares
+Price behavior after announced acquisition
+Simple merger arbitrage with share acquisition
+Leveraged buy-outs
+Private equity firms often borrow money (use leverage) to buy companies. This tutorial explains how they do it and pay the debt.
+Basic leveraged buyout (LBO)
+Bonds
+Both corporations and governments can borrow money by selling bonds. This tutorial explains how this works and how bond prices relate to interest rates. In general, understanding this not only helps you with your own investing, but gives you a lens on the entire global economy.
+Corporate debt versus traditional mortgages
+Introduction to bonds
+Introduction to the yield curve
+Relationship between bond prices and interest rates
+Treasury bond prices and yields
+Annual interest varying with debt maturity
+The yield curve
+Corporate bankruptcy
+Anybody or anything (you can decide if a corporation is a person) can have trouble paying its debts. This tutorial walks through what happens to a corporation in these circumstances.
+Chapter 7: Bankruptcy liquidation
+Chapter 11: Bankruptcy restructuring</field>
+</doc>
+<doc>
+	<field name="course_url">https://www.khanacademy.org/economics-finance-domain/entrepreneurship2/interviews-entrepreneurs</field>
+	<field name="course_title">Interviews with entrepreneurs | Entrepreneurship | Khan Academy</field>
+	<field name="course_price">Free</field>
+	<field name="course_length">Undefined</field>
+	<field name="course_workload">Undefined</field>
+	<field name="course_language">Undefined</field>
+	<field name="course_instructor">Undefined</field>
+	<field name="course_instructor_intro">Undefined</field>
+	<field name="course_category">Undefined</field>
+	<field name="course_intro">Personal lessons and insights from accomplished entrepreneurs are the basis of this interview series produced by the Ewing Marion Kauffman Foundation and Khan Academy.</field>
+	<field name="course_body">ENTREPRENEURSHIP
+Interviews with entrepreneurs
+Personal lessons and insights from accomplished entrepreneurs are the basis of this interview series produced by the Ewing Marion Kauffman Foundation and Khan Academy.
+ SUBSCRIBE
+Richard Branson - Chairman of the Virgin Group
+Richard Branson, Chairman of the Virgin Group, shares his story as a successful entrepreneur with a diverse portfolio.
+Richard Branson - Chairman of the Virgin Group
+Elon Musk - CEO of Tesla Motors and SpaceX
+Elon Musk - CEO of Tesla Motors and SpaceX
+Marc Ecko - Founder of Ecko Unlimited
+Marc Ecko, Founder of Ecko Unlimited, discusses his origins as an entrepreneur and the entrepreneurial culture of Hip Hop. Describing graffiti as the extreme sport of art, Marc talks about how this form of artistic expression was his gateway to entrepreneurship and offers advice to young people.
+Marc Ecko - Founder of Ecko Unlimited
+Marc Ecko - Failures are lessons for future success
+Thomas Friedman - Author
+Thomas Friedman - Author
+Philip Rosedale - Founder and Chairman of Second Life
+Philip Rosedale, Founder of Coffee and Power, discusses his recent venture and how a student’s education today can lead to a career tomorrow.
+Philip Rosedale - Founder of Coffee and Power
+Philip Rosedale - Founder and Chairman of Second Life
+Philip Rosedale - Evolving ideas vs. new ideas
+Zach Kaplan - CEO of Inventables
+Zach Kaplan, CEO of Inventables, discusses how the revolution of digital manufacturing and desktop publishing can impact a new generation of entrepreneurs.
+Zach Kaplan - CEO of Inventables
+Zach Kaplan - Digital manufacturing revolution
+Davis Guggenheim - Filmmaker
+Davis Guggenheim - Filmmaker
+T.A. McCann - Founder and CEO of Gist
+T.A. McCann, Founder and CEO of Gist, talks about his entrepreneurial journey, including how he joined the America’s Cup sailing team. T.A. discusses how entrepreneurs need to show initiative and chart their own course, advising other founders to always ask questions and make progress.
+T.A. McCann - Founder and CEO of Gist
+T.A. McCann - Translating from ideas to execution
+Ben Milne - CEO of Dwolla
+Ben Milne, CEO of Dwolla, discusses his motivation in founding his company and the excitement of starting something new. Ben advocates for the idea that failure, which can happen in big and small ways, does not have to be your legacy.
+Ben Milne - CEO of Dwolla
+Ben Milne - Importance of Curiosity
+Giles Shih - President and CEO of BioResource International
+Giles Shih, President and CEO of BioResource International, describes his company and explains how producing &quot;big green chickens&quot; will help feed the world.
+Giles Shih - President and CEO of BioResource International
+Giles Shih - The importance of education
+Giles Shih - Making an idea into a business
+Danny O&#39;Neill - President of The Roasterie
+Danny O’Neill, President of The Roasterie, describes the journey that led him to starting his own company as well as some of the key attributes of an entrepreneur.
+Danny O&#39;Neill - President of The Roasterie
+Danny O&#39;Neill - Getting started
+Danny O&#39;Neill - Finding the perfect customer
+Danny O&#39;Neill - Differentiation in your market
+Lara Morgan - Founder of Pacific Direct
+Lara Morgan, Founder of Pacific Direct, shares her entrepreneurial story and describes her motivations in founding companies. Lara describes how understanding the mechanisms of money, along with a fearlessness of asking questionshelped her company grow.
+Lara Morgan - Founder of Pacific Direct
+Scott Cook - Founder and Chairman of the Executive Committee, Intuit
+Scott Cook - Founder and Chairman of the Executive Committee, Intuit
+Angela Ahrendts - CEO of Burberry
+A Conversation with Angela Ahrendts
+Dave Smith - CEO &amp; Founder of TekScape IT
+When Dave Smith came to the harsh realization and he alone was in charge of his future, he took a resourceful route to become an expert in his field. Mixing the desire to make it with the imagination to fake it, he went to great lengths to connect with TekScape IT customers and make them believe that his tiny organization was big enough to solve their trickiest problems.
+Developing Value for the Product
+Engineering a Solution to Every Problem
+Shifting from Loyalty to Accountability
+Top of the World, Ma
+Renaud Laplanche - Founder of Lending Club
+Renaud Laplanche was opening his mail when the idea for Lending Club came to him. He tells the story of seeing the opportunity and creating the online Lending Club to fill the gap in the financial industries market. Laplache’s competitive nature extends to one-man sailboat racing and he compares the risks and rewards of racing with setting the pace as an entrepreneur.
+Finding an Idea in the Mail
+Building Trust and Confidence
+Sailing the Seas of Entrepreneurship
+Jason Christiansen - President &amp; CEO of Rigid Industries
+Jason Christiansen has heard all the familiar comparisons between running a business and being a team player, but as a former major league baseball player, he steps to the plate with a unique perspective. Christiansen talks about building Rigid Industries and how the company deals with imitation product lines and compares the pressure of standing on the mound to standing before his team of employees.
+Turning a Hobby into a Bright Business
+The World of Copy Cat Companies
+Baseball is Just a Game
+Linda Jeschofnig - Co-founder of Hands-On Labs
+A passion for science education led Linda Jeschognig from her life in accounting to a second act as an entrepreneur. She talks about the inspiration behind Hands-on Labs and overcoming the obstacles with a company created to send kits containing hydrochloric acid, cobalt nitrate and other hazardous elements to college chemistry students. Along the way, Jeschofnig has gained support and reached out to guide other women on the entrepreneurial path.
+Creating a Poof and Not a Giant Kaboom
+A Passion for Science Education
+LaKeshia Grant - CEO &amp; Founder of Virtual Enterprise Architects
+LaKeskia Grant founded Virtual Enterprise Architects as a place where she would have a voice and create an environment where others could be heard. She discusses her industry and encourages would-be entrepreneurs to incorporate their core values in their business. Grant’s mother may not know exactly what the information technology business does, but she instilled a strong work ethic and the spirit of entrepreneurship in her daughter.
+Being Heard and Giving Others a Voice
+Business and Family</field>
+</doc>
+</add>
